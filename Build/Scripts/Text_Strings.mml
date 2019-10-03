@@ -1,0 +1,85 @@
+<marathon>
+
+<!-- STR# Resource: Errors -->
+<stringset index="128">
+<string index="0">Sorry, WMaiD requires a 68040 processor or higher.</string>
+<string index="1">Sorry, WMaiD requires Color QuickDraw.</string>
+<string index="2">Sorry, WMaiD requires MacOS System Software 7.0 or higher.</string>
+<string index="3">Sorry, WMaiD requires at least 3000k of free RAM.</string>
+<string index="4">Sorry, WMaiD requires a 13” monitor (640x480) or larger which can be set to at least 256 colors or grays.</string>
+<string index="5">Please be sure the files “WMaiD Map”, “WMaiD Shapes”, “WMaiD Images” and "WMaiD Sounds” are in the same folder as the “WMaiD” application and try again.</string>
+<string index="6">WMaiD couldn’t allocate enough sound channels to play sound because there isn’t enough free system memory available (try giving WMaiD less memory).</string>
+<string index="7">WMaiD has encountered a file system error.  Check to make sure you have enough disk space and that you are not trying to save to a locked volume.</string>
+<string index="8">This copy of WMaiD has been modified, perhaps by a virus.  Please re-install it.</string>
+<string index="9">Why, pray tell, did you install WMaiD on a beta version of Marathon? It's not like it's gonna actually work or anything. But you knew that, right? Go get the real thing, and Try Again, freak!</string>
+<string index="10">Sorry, that key is already used to adjust the sound volume.</string>
+<string index="11">Sorry, that key is already used for zooming in the overhead map view.</string>
+<string index="12">Sorry, that key is already used for scrolling the inventory.</string>
+<string index="13">Sorry, that key is already used for a special game function.</string>
+<string index="14">WMaiD has used up all available RAM and cannot continue.  Trying giving it more memory, switching to a lower bit-depth or turning off sounds and try again.</string>
+<string index="15">WMaiD is about to load an external physics model.  This could result in erratic performance, inexplicable crashes, corrupted saved games, and inconsistent network games (don't worry about it).</string>
+<string index="16">WMaiD is using maps which were not merged properly in Forge. This could result in poor performance, inexplicable crashes and corrupted saved games (uh oh).</string>
+<string index="17">A game related error occurred while attempting to read from your map or saved game file.</string>
+<string index="18">A system error occurred while attempting to read from your map or saved game file.</string>
+<string index="19">An error occurred while saving your game (maybe your hard drive is full, or you tried to save to a locked volume?)</string>
+<string index="20">That serial number is invalid.  Please try again.</string>
+<string index="21">Sorry, you can’t start a network game with more than one copy of the same serial number.  Call 1-800-295-0060 to order more network serial numbers by fax.</string>
+<string index="22">Sorry, this copy of WMaiD has been serialized with a network-only serial number.  You cannot play the single-player game with a network-only serial number.</string>
+<string index="23">The map you are trying to load has been corrupted.  Please reinstall from a backup copy.</string>
+<string index="24">Checkpoint %d was not found!</string>
+<string index="25">Picture %d was not found!</string>
+<string index="26">You patched a preview copy of Marathon!?!? What were you thinking!? You can't network! You can't do anything! Go out and get the real thing!</string>
+<string index="27">The gathering computer has quit the game, leaving everyone stranded without the next level.  Perhaps you should tar and feather him. Yeah, you do that.</string>
+<string index="28">Sorry, WMaiD was unable to gracefully exit from the network game.  As a result, your romp through the levels has been prematurely halted. That sucks.</string>
+<string index="29">The scenario file that this saved game was from cannot be found.  When you switch levels you will revert to the default map (dag nammit).</string>
+<string index="30">WMaiD was unable to find the map that this film was recorded on, so the film cannot be replayed.</string>
+<string index="31">Sorry, WMaiD needs 6000k free to play in a networked game.  Give me more memory and try again.</string>
+</stringset>
+
+<!-- STR# Resource: Network Errors -->
+<stringset index="132">
+<string index="0">Sorry, that player could not be found on the network.  He may have cancelled his Join Game dialog.</string>
+<string index="1">One or more of the players in the game could not be found to receive the map.  The game has been cancelled.</string>
+<string index="2">WMaiD could not register on your network and therefore cannot join a game.</string>
+<string index="3">Sorry, the gathering computer has cancelled the game (you should all gang up on him next time).</string>
+<string index="4">One or more of the players in the game could not be found on the network and the game has been cancelled.</string>
+<string index="5">The gathering computer never sent the map, so the game has been cancelled.  Maybe one of the other machines in the game went down.</string>
+<string index="6">WMaiD was unable to start the game.  Maybe one of the other machines in the game went down.</string>
+<string index="7">An error ocurred while trying to join a game (an incompatible version of Marathon or some other hack may have tried to gather you).  Try again.</string>
+<string index="8">Sorry, a network error ocurred and WMaiD is unable to continue.</string>
+<string index="9">That player could not be added to the game because your versions of Marathon (or whatever hack they're running) are incompatible.</string>
+</stringset>
+
+<!-- STR# Resource: Preferences Advice -->
+<stringset index="134">
+<string index="0">Be sure your external speakers or headphones are connected properly, and that you have enabled stereo output from the Sound (or Monitors &amp; Sound) Control Panel.</string>
+<string index="1">Be sure that your Cybermaxx helmet is properly hooked up to the serial port and turned on.</string>
+<string index="2">Please check to be sure you have the file "QuickTime(TM) Musical Instruments" in your "Extensions" folder, because WMaiD's background music (or lack thereof) will sound really, really stupid without it.</string>
+</stringset>
+
+<!-- STR# Resource: Computer Interface -->
+<stringset index="135">
+<string index="0">UESC Marine User Display</string>
+</stringset>
+
+<!-- STR# Resource: Join Dialog Messages -->
+<stringset index="136">
+<string index="0">Click “Join” to wait for an invitation into a network game of WMaiD.</string>
+<string index="1">Now waiting to be gathered into a network game by a server.  Click “Cancel” to wuss out.</string>
+<string index="2">You have been accepted into a game.  Now waiting for the server to add the remaining players… </string>
+</stringset>
+
+<!-- STR# Resource: New Join Dialog Messages -->
+<stringset index="142">
+<string index="0">You have been accepted into a game of “%s”.  Now waiting for the server to add the remaining players… </string>
+<string index="1">Every Man For Himself</string>
+<string index="2">You have been accepted into a cooperative game.  Now waiting for the server to add the remaining players… </string>
+<string index="3">Capture the Flag</string>
+<string index="4">King of the Hill</string>
+<string index="5">Kill the Man With the Skull</string>
+<string index="6">Keep Away From Bob</string>
+<string index="7">Rugby</string>
+<string index="8">Tag</string>
+</stringset>
+
+</marathon>

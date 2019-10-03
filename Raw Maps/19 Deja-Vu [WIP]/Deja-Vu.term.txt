@@ -1,0 +1,166 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 133
+#END
+#FINISHED
+#LOGON 1604
+#PICT 158
+$C1$B
+
+Knowing what awaits;
+writhes with $b[?malice];$B 
+     does my nameless brother. 
+
+Without your $b[?our]$B construct to pry;
+strength I do grasp.
+
+
+To $b[?halt]$B the portals tide;
+the sands will be Set $b[?aflame]$B
+
+To die and be reborn $b(as one?)$B below;
+is the end of ones journey.
+$b(though you conclusion lies elsewhere)$B
+
+Shatter $b[?filament] $Band resolve.
+
+We delve below$I
+#LOGOFF 158
+#INTERLEVEL TELEPORT 23
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 133
+#PICT 133
+Put an interesting Lucid Durandal terminal here.$C3
+#LOGOFF 133
+``
+#END
+#FINISHED
+#LOGON 1604
+#PICT 158
+$C1$B
+
+Knowing what awaits;
+writhes with $b[?malice];$B 
+     does my nameless brother. 
+
+Without your $b[?our]$B construct to pry;
+strength I do grasp.
+
+
+To $b[?halt]$B the portals tide;
+the sands will be Set $b[?aflame]$B
+
+To die and be reborn $b(as one?)$B below;
+is the end of ones journey.
+$b(though you conclusion lies elsewhere)$B
+
+Shatter $b[?filament] $Band resolve.
+
+We delve below$I
+#LOGOFF 158
+#INTERLEVEL TELEPORT 23
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 142
+#PICT 142
+
+
+
+
+
+
+$C1$BThe creators gateway is $b[?will be]$B opened;
+without intervention of ours.
+
+Unbalanced is the line.
+
+$b(Righten kingdoms through steel and fire.)$B
+
+Set the $b[?source]$B alight.
+#LOGOFF 142
+#END
+#FINISHED
+#LOGON 142
+#PICT 158
+$C1$B
+
+Knowing what awaits;
+writhes with $b[?malice];$B 
+     does my nameless brother. 
+
+Without your $b[?our]$B construct to pry;
+strength I do grasp.
+
+
+To $b[?halt]$B the portals tide;
+the sands will be Set $b[?aflame]$B
+
+To die and be reborn $b(as one?)$B below;
+is the end of ones journey.
+$b(though you conclusion lies elsewhere)$B
+
+Shatter $b[?filament] $Band resolve.
+
+We delve below$I
+#LOGOFF 158
+#INTERLEVEL TELEPORT 23
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 142
+#PICT 142
+
+
+
+
+
+
+$C1$BThe creators gateway is $b[?will be]$B opened;
+without intervention of ours.
+
+Unbalanced is the line.
+
+$b(Righten kingdoms through steel and fire.)$B
+
+Set the $b[?source]$B alight.
+#LOGOFF 142
+#END
+#FINISHED
+#LOGON 1604
+$C3      $$C0-$C30$C00$C6&
+$C0       <$C3spurrious$C0_$C3interrupt$C0>
+#PICT 158
+$C1$B
+
+Knowing what awaits;
+writhes with $b[?malice];$B 
+     does my nameless brother. 
+
+Without your $b[?our]$B construct to pry;
+strength I do grasp.
+
+
+To $b[?halt]$B the portals tide;
+the sands will be Set $b[?aflame]$B
+
+To die and be reborn $b(as one?)$B below;
+is the end of ones journey.
+$b(though you conclusion lies elsewhere)$B
+
+Shatter $b[?filament] $Band resolve.
+
+We delve below$I
+#LOGOFF 158
+#INTERLEVEL TELEPORT 23
+#END
+#ENDTERMINAL 3

@@ -1,0 +1,29 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 0
+$C3try ytj r
+#PICT 3
+
+
+I have a surprise present for our dear friend Tycho. It's on an uplink chip. Go get it. It should be somewhere around here.
+
+And remember to grab some ammo while you're at it.
+#LOGOFF 0
+$C3th ku sdfg
+#END
+#FINISHED
+#LOGON 0
+$C3hdg o s5e df
+#PICT 2
+
+
+
+All of our gruntwork for Tycho has paid off.  I'm managed to maneuver him into a highly compromised position, a position I plan on exploiting.  The chip you're carrying contains a masterfully designed virus, if I do say so myself.  Insert it once you're aboard the $IKahc'Trie$i, and Tycho will find himself aboard a time bomb that will turn him and everything in a 24.52x3 km radius into space dust when I so decide.
+$C3
+$C0Isn't betrayal $Ifun$i?
+#LOGOFF 0
+$C3456 fg 76
+#INTERLEVEL TELEPORT 5
+#END
+#ENDTERMINAL 0

@@ -1,0 +1,194 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+
+
+reversion of order $b[?acclaimed]$B to now
+precious beings worthless$b [?sow]$B
+
+
+$b(truth will not take thyne place)$B
+
+          alone, without metaphor
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+
+
+Disquiet, reserve,  doubt;
+
+                    harboring in your sleep
+
+they walk the path
+$b                    $Bwith $ball$B who $breap$B
+
+
+
+       those within your $b[?dreams]
+       (this is what eternity holds)$B
+#PICT 1608
+$C1$B
+
+
+
+
+
+
+
+the hammer and the sword;
+        forever entwined; 
+                            always confined
+
+$b(until the end, Destiny)$B
+
+
+
+
+                              of all things
+#LOGOFF 1608
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+Without, a sphere is nothing  
+
+  $b (callous order alone in space)$B
+
+                forever in time
+landscapes $b[?embedded]$B in eternity
+
+Great precipices await you;
+boundless lands of white shadow.
+                   Unreal, vague, blurred;
+  
+                   casting no $b[?shadows]$B
+
+
+    the ghosts, $b[?monster]$B
+    $b(one in the same)$B
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+
+
+Disquiet, reserve,  doubt;
+
+                    harboring in your sleep
+
+they walk the path
+$b                    $Bwith $ball$B who $breap$B
+
+
+
+       those within your $b[?dreams]
+       (this is what eternity holds)$B
+#PICT 1608
+$C1$B
+
+
+
+
+
+
+
+the hammer and the sword
+forever entwined, 
+                           always confined
+
+$b(until the end, Destiny)$B
+of all things
+#LOGOFF 1608
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 158
+#PICT 158
+$C1$B
+
+
+
+Unaudible roar within 
+this void, do I hear.
+
+A final strike, I do ask;
+
+Shall fell the walls 
+of $b[?Jeresaleum]$B,
+
+
+   With it, the city gate.
+#PICT 158
+$C1$B
+
+
+
+
+Changing variables have altered
+this rivers path;
+
+bringing our vessel to harbour
+     here, $b[?now].$B
+
+
+The brother seeks oblivion; 
+
+      in $b[?chaos]$B, it will grasp in vain.
+
+$b(Fate written in smoke, dispell the cloud)
+#LOGOFF 158
+#END
+#FINISHED
+#LOGON 159
+#PICT 159
+$C1$B
+
+
+
+
+Reborn are $b[?we]$B, from cleanest ash.
+
+
+
+Make use of your $b[?tangent]$B artifact;
+          $b(to restore your construct)$B
+
+
+As light, we $bexpedite$B you 
+       $b   (to the realm above)
+#LOGOFF 159
+#INTERLEVEL TELEPORT 26
+#END
+#ENDTERMINAL 2

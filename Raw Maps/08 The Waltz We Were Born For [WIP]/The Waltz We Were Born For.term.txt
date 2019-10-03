@@ -1,0 +1,472 @@
+;
+#TERMINAL 0
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+$C4This is a temp replacement level for a map I'm currently working on. In it, Durandal sends you down to another Jjaro citadel.
+
+$C0The old version of the level was this:
+Durandal has you activate a relay so he can get more electronic-data on some secret Jjaro hidden weapon.$C4
+
+$C5Now:$C4 You're looking for a mysterious ancient artifact of Jjaro design. 
+Durandal needs it for undisclosed reasons.
+
+At the levels end, just before Durandal teleports you out...$C0
+#PICT 131
+
+
+>View:
+
+$C1THOTH$C0 $C4interrupts the transmission without $C0Durandal$C4 knowing:$C0
+
+$C1$BBrother mine seeks your $b[?death]
+$B
+Influencing the slavers from afar;
+Your $b[?our]$B construct knows little
+
+$b  (from adjunct locations ahead)$B
+
+  Return
+$C4
+$bYou are redirected....
+
+$C5Just make sure you picked up that $Bchip$b I put on this map, ok?$C4
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#INTERLEVEL TELEPORT 9
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+instrument of the creators;
+
+           A lathe of$b [?heaven]$B
+
+
+$b
+      (Your work is not design)
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1608
+#PICT 140
+$C1
+
+`$C5^$C1th
+
+
+
+$Bthose who came before
+
+the light heralded an unmerged
+
+chaos disordered the expanse
+brought the $b[?variation]$B
+#PICT 140
+$C1
+
+`$C5^$C1th
+
+
+
+$Bcreation of chaos, restless gods arise
+quarrel upon the heavens
+
+
+sublimely chaotic war;
+via the lens
+
+
+discord of  slumber,    
+$b(sleeping gods lay)
+#PICT 140
+$C1
+
+
+
+
+$BAwaken to dreams of chaos;
+angelic $b[?nightmare]$B made flesh.
+
+The eternal guide      $b(child of the dream)
+$B
+
+
+                 My night into glorious day 
+
+
+Dreams dispelled               $b[?sustained]$B
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGON 1608
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 11801
+
+
+>View:
+
+Take the uplink I have provided, and install it within a rooftop transponder.
+
+Once the uplink is in place, it will only take a few seconds for me to gain control of this buildings network.  Look for a nearby terminal once the array is activated.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+;
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+Change of plans $C3&$_$C0
+       <$C3spurrious$C0_$C3interrupt$C0>
+#PICT 142
+$C1$B
+
+Brother mine seeks your $b[?death]
+$B
+Influencing the slavers from afar;
+Your $b[?our]$B construct knows little
+
+$b  (from adjunct locations ahead)$B
+
+  Return$b
+#PICT 131
+
+
+>View:
+
+Change of plans. You need to clear out this structure of the remaining Pfhor. Something has halted the upload of data, and I need time to determine a way around the barrier. One guess on whose behind this latest pitfall.
+
+Another wave of Pfhor are inbound on your location. The best approach would be to  hold the docking area you passed through earlier. Check any functioning terminal after their assualt is routed.
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#INTERLEVEL TELEPORT 9
+#END
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1608
+#PICT 141
+$C1$B
+
+
+
+
+
+Self sufficient precursors; 
+valiant and strong
+
+                  hidden from the light
+
+
+$b(spinning and congruent angel)$B
+
+
+         infinitely probably minds;
+
+advanced subject of thoughts.
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+The uplink $C3&$_$C0
+       <$C3spurrious$C0_$C3interrupt$C0>
+#PICT 142
+$C1$B
+
+Brother mine seeks your $b[?death]
+$B
+Influencing the slavers from afar;
+Your $b[?our]$B construct knows little
+
+$b  (from adjunct locations ahead)$B
+
+  Return$b
+#PICT 131
+
+
+>View:
+
+Change of plans. You need to clear out this structure of the remaining Pfhor. Something has halted the upload of data, and I need time to determine a way around the barrier. One guess on whose behind this latest pitfall.
+
+Another wave of Pfhor are inbound on your location. The best approach would be to  hold the docking area you passed through earlier. Check any functioning terminal after their assualt is routed.
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#INTERLEVEL TELEPORT 9
+#END
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1608
+$C1$Bw^`ning$b
+#PICT 141
+$C1
+^^^^`
+^^``
+`^th
+
+
+$BDeluge across the worlds $b[?]$B;
+
+the precursor eschew    a native form
+
+the tide halted, $Ichaos$i dreams
+
+those advanced 
+
+
+
+amidst their divinity$b
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1608
+#PICT 140
+$C1
+
+
+
+
+
+
+$Bwhat matters is timeless, 
+dazzling devotion. 
+
+
+not rain, not eden $b[?gardenias]$B;
+but cactus in drought$C5,
+$C1
+        not just the moons of deep sleep, 
+        not sunlight or stars,
+
+   $b(not the blue, but the darkness beyond)$B
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 1608
+#PICT 140
+$C1
+
+`^th
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+
+
+   once a man;
+           without $b[?conscience]$B
+
+ without doubt;
+ muddied is your path.
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 166
+Data_Pad$C3#76$C0
+#PICT 166
+-$C3-$C0-$C3-$C0-$C3-$C0-$C3-----$C0Log$C3_$C0
+$C4>Command line open_
+>Algorithm Active$C0
+
+$C4>OPEN/data stream$C0
+ -Begin upload?
+ Y/N
+$C4>Y$C0
+ $C3Buffering...$C0
+ Data Stream to $C4UESC_[••••]/InOrbit/$C0
+ [$C3192.168.0.1$C0]
+#END
+;
+#FINISHED
+#Logon 166
+Data_Pad#76
+#LOGON 166
+Data_Pad$C3#76$C0
+#PICT 166
+-$C3-$C0-$C3-$C0-$C3-$C0-$C3-----$C0Log$C3_$C0
+$C4>Command line open_
+>Algorithm Active$C0
+
+$C4>OPEN/data stream$C0
+ -Begin upload?
+ Y/N
+$C4>Y$C0
+ $C3Buffering...$C0
+ Data Stream to $C4UESC_[••••]/InOrbit/$C0
+ [$C3192.168.0.1$C0]
+$C4>Upload $C6*$C2i$C6n$C2t$C6e$C2r$C6r$C2u$C6p$C2t$C6e$C2d$C6*$C4. $C0
+ $C3.000$C0% of projected $C320$C0 Exobyte 
+  total transferred. 
+$C4>Outgoing Message...$C0
+Source$C3...Undetermined$C0
+$C4>$C1burningstars$B[?enraptured]$bwithvice$C4/--$C0
+$C4>Transfer Halted$C0
+#END
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 148
+#INFORMATION
+  5468652055455347206F776E73206D79206661636521
+
+>$C2 _
+#INFORMATION
+  5468652055455347206F776E73206D79206661636521
+
+> _
+#INFORMATION
+  5468652055455347206F776E73206D79206661636521
+
+> $C2_
+#END
+#FINISHED
+#LOGON 148
+#INFORMATION
+
+
+>$C2 _
+#END
+#ENDTERMINAL 11
+;
+#TERMINAL 12
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 175
+
+
+>View:
+
+You may noticed numerous explosive spheres scattered about the citadels. As it happens, they're laid by the Jjaro drones as part of their guerrilla warfare mode. The mines operate on a simple, but deadly detect and detonate routine. 
+
+I'd be a negligent Ai if I didn't tell you to shoot these things from afar; particular near large groups of hostile troops. 
+
+If the oppertinity arises, of course.
+#PICT 175
+
+
+>View:
+
+Keep moving upward to locate the uplink point. Unless you can fly, take care in navigating the damaged section of this building. From orbit, I can see the drones mining every ledge in sight. 
+
+I hope you were not exaggerating the extent of your sharp shooting skills on the Tau Ceti colony. Bragging can be hazardous to your health in this situation.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+;
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+The uplink $C3&$_$C0
+       <$C3spurrious$C0_$C3interrupt$C0>
+#PICT 142
+$C1$B
+
+Brother mine seeks your $b[?death]
+$B
+Influencing the slavers from afar;
+Your $b[?our]$B construct knows little
+
+$b  (from adjunct locations ahead)$B
+
+  Return$b
+#PICT 131
+
+
+>View:
+
+Change of plans. You need to clear out this structure of the remaining Pfhor. Something has halted the upload of data, and I need time to determine a way around the barrier. One guess on whose behind this latest pitfall.
+
+Another wave of Pfhor are inbound on your location. The best approach would be to  hold the docking area you passed through earlier. Check any functioning terminal after their assualt is routed.
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#INTERLEVEL TELEPORT 9
+#END
+#ENDTERMINAL 12

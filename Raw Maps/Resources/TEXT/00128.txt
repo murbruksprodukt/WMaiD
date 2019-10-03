@@ -1,0 +1,40 @@
+<marathon_levels><level index="0">
+<mml resource="1002"/></level>
+
+<level index="2">
+<music file="WMaiD Data/Music/Astrogator.mp3"/>
+<mml resource="1004"/></level>
+
+<level index="4">
+<music file="WMaiD Data/Music/Living An Illusion.mp3"/></level>
+
+<level index="5">
+<music file="WMaiD Data/Music/Memories of Shell Beach.mp3"/></level>
+
+<level index="6">
+<music file="WMaiD Data/Music/Solaris.mp3"/></level>
+
+<level index="7">
+<music file="WMaiD Data/Music/Atavachron.mp3"/></level>
+
+<level index="8">
+<music file="WMaiD Data/Music/Earth Journey.mp3"/></level>
+
+<level index="9">
+<music file="WMaiD Data/Music/Pulsar.mp3"/></level>
+
+<level index="10">
+<music file="WMaiD Data/Music/Night Reflections.mp3"/></level>
+
+<level index="13">
+<mml resource="1003"/></level>
+
+<level index="15">
+<music file="WMaiD Data/Music/Damned Lake.mp3"/></level>
+
+<level index="19">
+<music file="WMaiD Data/Music/Damned Lake.mp3"/></level>
+
+<level index="22">
+<music file="WMaiD Data/Music/New Light.mp3"/></level>
+</marathon_levels>

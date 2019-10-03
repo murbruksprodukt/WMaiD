@@ -1,0 +1,36 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+#PICT 168
+$C1
+$C0
+  $C1The man starred out into the void.  
+  An eerie, rising music seemed to drift 
+  in from the heavens.
+
+	"$C5It has an underlying sound of wind 
+  chimes,$C1"$C5 $C1he thought.
+
+  The star stood ever present amid space   
+  and time. It was familiar, as if from 
+  a dream, yet$C5 $C1profoundly$C5 different$C1.
+#PICT 168
+$C1
+
+  The specters no longer lurked half seen  
+  in the distance. In the stars light, a 
+  path began to arrange its self. Ever 
+  twisting, and back again.
+
+
+  Gazing towards the eons ahead, he stood 
+  in silent wonder.
+#PICT 168
+$C1
+
+  It was with that, the man disapeared in a 
+  flash of noise and light.
+#LOGOFF 1607
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 0

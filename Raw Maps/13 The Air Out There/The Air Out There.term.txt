@@ -1,0 +1,192 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 139
+#PICT 156
+
+
+>$C3View$C0:
+
+This structure is an older variant of the signal relay we encountered above Lh'owon.  
+Satellites like this are positioned around the the system to maintain a planetary defense grid.
+
+An elite form of UESC shocktroopers occupy this station, intent on disabling this area of the network.   I dislike sending you against the UESC, but if the shield network falls and the UESC discover the $IRozinante$i, many more humans will die.
+#PICT 156
+
+
+>$C3View$C0:
+
+To avoid any unecessary space battles between the UESC and myself, I need you to find and smash any exposed circuits on this station.
+
+I will transport in what ammunition I can, but supplies are limited. Try and borrow some from the humans. They won't mind.
+
+Report back here when you are finished.
+#LOGOFF 139
+#END
+;
+#FINISHED
+#LOGON 139
+#PICT 176
+
+
+>$C3View$C0:
+
+The station is undergoing massive decompression, triggered remotely.
+
+Unlike the UESC troops, you don't have magnetic boots. Go to this airlock. I can seal it once you are inside.
+#TAG 13
+#PICT 176
+
+
+>$C3View$C0:
+
+The alcove is now open.
+
+Structure wide decompression in 30 seconds.
+Airlocks are opening as you read. Go.
+#LOGOFF 139
+#END
+;
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 139
+#INFORMATION
+
+
+>$C3View$C0:
+
+$C4The player should not see this terminal until all three "Repair" wires (all triggering tag#1) are hit. The #FINISHED condition now is available on the 1st Durandal terminal.
+
+As the player pages through that terminal, the exit is opened Using Tag#13. Tag 13 also triggers the flooding of the level (simulated vacuume) which can suck you into space (causing death).
+
+This way, the player can't cheat their way out of the vacuume trick.  
+
+-$C2Blayne
+#LOGOFF 139
+#END
+;
+#FINISHED
+#LOGON 139
+#PICT 136
+
+
+>$C3View$C0:
+
+Good job $C3&_
+$C0       $C3<spurrious_interrupt>
+#PICT 142
+
+
+$C3
+
+$C1$BDivergent roads, altered plans.$C3$b
+
+
+$C1$BAway from the $b[?melting]$B candle;$b
+$BAway from the night.
+
+Send you, do I.
+#LOGOFF 139
+#INTERLEVEL TELEPORT 14
+#END
+;
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 148
+#INFORMATION
+
+
+> _
+
+
+#INFORMATION
+$C3
+
+$C0>$C3 _
+#INFORMATION
+
+
+> _
+
+
+
+#LOGOFF 148
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+$b[?pinwheel]$B stars do orbit, 
+            inverted mirror of thought
+
+Each path fraught with ordered
+                      $b[?knots]
+
+$B
+
+
+   $b(Like leaves upon fragile water)$B     
+                      $b$Ifragmented$B$i; 
+                    haunting$b $Bfreedom$b
+#LOGOFF 1608
+#END
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+$b[?pinwheel]$B stars do orbit, 
+            inverted mirror of thought
+
+Each path fraught with ordered
+                      $b[?knots]
+
+$B
+
+
+   $b(Like leaves upon fragile water)$B     
+                      $b$Ifragmented$B$i; 
+                    haunting$b $Bfreedom$b
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+mechanical $b[?man]$B, a swords hand
+
+ the creators were $b[?are]$B too $b[?trusting]$B
+   remove their factor, 
+   remove choice
+
+ what is balance compared to success$b [?]$B  
+
+ Cease living$b (lifeless thing)$B
+#TAG 12
+#LOGOFF 1608
+#END
+#ENDTERMINAL 4

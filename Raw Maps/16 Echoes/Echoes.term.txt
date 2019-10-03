@@ -1,0 +1,77 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 149
+#INFORMATION
+$C1{period transfer}
+{entry begin}
+
+
+$IHistorical Abstract$i:
+
+
+
+This historical transmission is intended to serve as an enclosure of supporting information to file #iso-342107 $C2<$C6ref$C2#$C6 deleted$C2>$C1. It documents the pivotal events that shaped the direction of humanity, and our place in the universe.
+
+Among social and military historians of the early colonial period, there is solid agreement that the United Earth Space Council's (UESC) decision to seize the ancient outpost orbiting rogue star $C5WD0346+246$C1 led to broad spanning social and technological implications. The events surrounding $C5WD0346+246$C1 for the past three hundred years were muddled in conflicting accounts and disinformation. Only recently have the military records of the event become declassified and made available to the general public.
+#INFORMATION
+$C1{period transfer}
+{entry begin}
+
+
+$IHistorical Abstract$i:
+
+
+
+It is the intent of this author to clarify the sequence of events through the application of academic theory to existing and newly released military documentation. This is the first cohesive account of events known as the battle for Rogue Star.
+
+
+
+[Historical Abstract Ends]
+[JSTOR Academic access   ]
+
+----------------------------------------------------------------------
+[$C5http://marathon.bungie.org/maraff/archive/wmaid/futureshistory.html$C1]
+----------------------------------------------------------------------
+#TAG 14
+#LOGOFF 149
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 148
+#INFORMATION
+$C1{period transfer}
+{entry begin}
+
+
+$IHistorical Abstract$i:
+
+
+
+This historical transmission is intended to serve as an enclosure of supporting information to file #iso-342107 $C2<$C6ref$C2#$C6 deleted$C2>$C1. It documents the pivotal events that shaped the direction of humanity, and our place in the universe.
+
+Among social and military historians of the early colonial period, there is solid agreement that the United Earth Space Council's (UESC) decision to seize the ancient outpost orbiting rogue star $C5WD0346+246$C1 led to broad spanning social and technological implications. The events surrounding $C5WD0346+246$C1 for the past three hundred years were muddled in conflicting accounts and disinformation. Only recently have the military records of the event become declassified and made available to the general public.
+#INFORMATION
+$C1{period transfer}
+{entry begin}
+
+
+$IHistorical Abstract$i:
+
+
+
+It is the intent of the author to clarify the sequence of events by utilizing both military source documents and prevailing academic theory. The result is the first cohesive account of the battle for Rogue Star.
+
+
+
+[Historical Abstract Ends]
+[JSTOR Academic access   ]
+
+----------------------------------------------------------------------
+[$C5http://marathon.bungie.org/maraff/archive/wmaid/futureshistory.html$C1]
+----------------------------------------------------------------------
+#LOGOFF 148
+#END
+#ENDTERMINAL 1

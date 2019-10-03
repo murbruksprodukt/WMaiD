@@ -1,0 +1,240 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 11801
+
+
+>$C3View$C0:
+
+The UESC fleet has finally made their move on this installation. 
+
+I have no doubt their attack coincided with the reactivation of power in this hemisphere. UESC command likley believe the Pfhor found something important planetside.
+
+It's a shame we didn't arrive a few months before the humans. Their presence here complicates things.
+
+There's no need to worry about $IRozinante's$i safety, however. The ship can avoid detection from both sides by hiding under the orbital shielding.
+#PICT 131
+
+
+>View:
+
+
+Aren't you forgetting something? If I stand any chance of accessing this installations' data, you need to find at least one uplink chip. Look for a storage room of some kind.
+
+After you've found it, return here. I have a plan for getting you out.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+While you were running around below, I've been busy playing with the outpost network. I can now control some basic things like door, lifts, and lights. How exciting!
+
+The hydraulic pistons near the entrance are jammed with sand. I've located another way out.
+#TAG 15
+#PICT 131
+
+
+>View:
+
+
+There's an emergence loop buried in one of these processors. Try breaking some of the wires I've exposed for you. It should throw everything into code red and open the emergency doors. I think it activates a few other systems in the process.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+;
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+
+
+a serpent creation
+entwined by the $b[?triad]$B
+desolate strangling light
+fiends of set
+
+
+concentric circles, ever greater
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGON 1608
+#PICT 1608
+$C1
+
+
+
+
+
+$Bshould nature round;
+break in ruin.
+
+   $b(would he hear a mighty crack?)$B
+
+      
+
+I $b[?stood]$B amidst a falling world;
+$b                 $Bunable to$b [?move]
+#LOGOFF 1608
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+
+From the crumbs of public data I can access, this structure was once important.
+
+The Jjaro perfected molecular biology through nanotechnology, and applied it to a number of sub-races such as the Nakh and the S'pht. They gave each client race a protector, who the grunts revered as a conduit to the creators.
+
+Being an absentee figure seems to be a reoccurring motif among the creations of the Jjaro. Thoth let the S'pht fall into slavery, just as the Nakhs chose the path of non-interference.
+#PICT 131
+
+
+>View:
+
+
+From most accounts, the Nakh had a characteristic urge to satisfy honor. That particular trait escalated into a full-scale rebellion against the Pfhor, which actually reached the space around Pfhor Prime.
+
+A race obsessed with personal honor doesn't make for a good slave class. The Pfhor wiped them out along with some powerful Jjaro artifacts from their age of antiquity. What a pity.
+#PICT 131
+
+
+>View:
+
+
+I suspect the Jjaro construct of this outpost is (or was) the Nakhs' guardian AI. If we play our cards correctly, I could use its hatred for the Pfhor to our advantage. It's just something to keep in mind.
+
+If the central column of turrets is giving you trouble, try pulling some wires to your left. I'll be in touch elsewhere.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+;
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+
+You're standing on the remains of a Jjaro genetic development complex. 
+
+This area doesn't contain any data of interest, but should have a storage area of some kind. We're seeking a few ancient blank media.
+#PICT 131
+
+
+>View:
+
+
+Where should you look? Judging from the winding structure of this building, going down seems like a wise idea.
+
+Before you do, activate the generator to your left. It should power the airlocks.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+;
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+
+What are you doing here exactly? Go back down to the genetic lab and $Ithrough$i the newly open emergency exit.
+
+You're not afraid of a few defense drones, are you?
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+You've made an excellent job at finding that uplink chip. My S'pht can reverse engineer and replicate it as much as I want.
+
+The next few stops are minor communications citadels not yet under Pfhor control. You'll go in and then out long gone before anyone notices things amiss.
+
+Prepare for transport.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#INTERLEVEL TELEPORT 7
+#END
+;
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1
+
+
+
+
+
+
+
+$BI left no remorse in $b[?coldest summer]$B
+
+the books were frozen;
+airports deserted
+
+what instruments $b[?we]$B 
+         have surmise
+
+
+what left is cold,
+dark $b[?death]$B inside
+#PICT 1608
+$C1
+
+
+
+
+
+
+   
+$Bfar from home or $b[?love];$B
+far from those who know,
+the actions of one.
+ 
+    does he travel above$b
+#LOGOFF 1608
+#END
+#ENDTERMINAL 5

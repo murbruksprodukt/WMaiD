@@ -1,0 +1,24 @@
+<marathon>
+<interface>
+<!-- New Game -->
+<rect index="7" top="167" left="401" bottom="180" right="519"/>
+<!-- Load Game -->
+<rect index="8" top="183" left="401" bottom="195" right="519"/>
+<!-- Gather Netgame -->
+<rect index="9" top="253" left="401" bottom="266" right="519"/>
+<!-- Join Netgame -->
+<rect index="10" top="236" left="401" bottom="249" right="519"/>
+<!-- Preferences -->
+<rect index="11" top="391" left="401" bottom="405" right="519"/>
+<!-- View Last Film -->
+<rect index="12" top="307" left="401" bottom="320" right="519"/>
+<!-- Save Last Film -->
+<rect index="13" top="321" left="401" bottom="334" right="519"/>
+<!-- Replay Saved Film -->
+<rect index="14" top="335" left="401" bottom="348" right="519"/>
+<!-- Credits -->
+<rect index="15" top="30" left="401" bottom="120" right="519"/>
+<!-- Quit -->
+<rect index="16" top="406" left="401" bottom="419" right="519"/>
+</interface>
+</marathon>

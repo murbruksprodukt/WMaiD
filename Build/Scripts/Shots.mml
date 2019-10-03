@@ -1,0 +1,131 @@
+<marathon>
+<opengl>
+<texture coll="4" bitmap="0" normal_image="WMaiD Data/Graphics/shots/00.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="1" normal_image="WMaiD Data/Graphics/shots/01.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="2" normal_image="WMaiD Data/Graphics/shots/02.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="3" normal_image="WMaiD Data/Graphics/shots/03.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="6" clut="-1" normal_image="WMaiD Data/Graphics/Shots/6.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="7" clut="-1" normal_image="WMaiD Data/Graphics/Shots/7.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="8" clut="-1" normal_image="WMaiD Data/Graphics/Shots/8.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="9" clut="-1" normal_image="WMaiD Data/Graphics/Shots/9.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="10" clut="-1" normal_image="WMaiD Data/Graphics/Shots/10.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="18" clut="-1" normal_image="WMaiD Data/Graphics/Shots/18.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="19" clut="-1" normal_image="WMaiD Data/Graphics/Shots/19.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="20" clut="-1" normal_image="WMaiD Data/Graphics/Shots/20.png" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="21" clut="-1" normal_image="WMaiD Data/Graphics/Shots/21.png" opac_type="1" type="2" />
+<texture coll="4" bitmap="22" clut="-1" normal_image="WMaiD Data/Graphics/Shots/22.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="23" clut="-1" normal_image="WMaiD Data/Graphics/Shots/23.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="24" clut="-1" normal_image="WMaiD Data/Graphics/Shots/24.dds" opac_type="1" type="2" />
+<texture coll="4" bitmap="25" normal_image="WMaiD Data/Graphics/shots/25.dds" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="26" normal_image="WMaiD Data/Graphics/shots/26.dds" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="27" normal_image="WMaiD Data/Graphics/shots/27.dds" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="28" normal_image="WMaiD Data/Graphics/shots/28.dds" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="29" normal_image="WMaiD Data/Graphics/shots/29.png" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="30" normal_image="WMaiD Data/Graphics/shots/30.png" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="31" normal_image="WMaiD Data/Graphics/shots/31.png" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="32" normal_image="WMaiD Data/Graphics/shots/32.png" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="33" normal_image="WMaiD Data/Graphics/shots/33.png" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="34" normal_image="WMaiD Data/Graphics/shots/34.png" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="35" normal_image="WMaiD Data/Graphics/shots/35.dds" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="36" normal_image="WMaiD Data/Graphics/shots/36.dds" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="37" normal_image="WMaiD Data/Graphics/shots/37.dds" normal_bloom_shift="0.6" opac_type="1" type="2" />
+<texture coll="4" bitmap="48" normal_image="WMaiD Data/Graphics/shots/48.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="49" normal_image="WMaiD Data/Graphics/shots/49.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="50" normal_image="WMaiD Data/Graphics/shots/50.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="51" normal_image="WMaiD Data/Graphics/shots/51.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="56" normal_image="WMaiD Data/Graphics/shots/56.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="57" normal_image="WMaiD Data/Graphics/shots/57.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="58" normal_image="WMaiD Data/Graphics/shots/58.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="59" normal_image="WMaiD Data/Graphics/shots/59.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="60" normal_image="WMaiD Data/Graphics/shots/60.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="61" normal_image="WMaiD Data/Graphics/shots/61.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="62" normal_image="WMaiD Data/Graphics/shots/62.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="74" normal_image="WMaiD Data/Graphics/shots/74.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="75" normal_image="WMaiD Data/Graphics/shots/75.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="86" normal_image="WMaiD Data/Graphics/shots/86.png" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="87" normal_image="WMaiD Data/Graphics/shots/87.png" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="88" normal_image="WMaiD Data/Graphics/shots/88.png" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="89" normal_image="WMaiD Data/Graphics/shots/89.png" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="4" bitmap="125" normal_image="WMaiD Data/Graphics/shots/125.png" glow_image="WMaiD Data/Graphics/shots/125.png" normal_bloom_shift="0.4" minimum_glow_intensity="1.0" opac_type="1" type="2" />
+<texture coll="4" bitmap="126" normal_image="WMaiD Data/Graphics/shots/126.png" glow_image="WMaiD Data/Graphics/shots/126.png" normal_bloom_shift="0.4" minimum_glow_intensity="1.0" opac_type="1" type="2" />
+
+
+<texture coll="9" bitmap="59" normal_image="WMaiD Data/Graphics/shots/9_61.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="60" normal_image="WMaiD Data/Graphics/shots/9_61.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="61" normal_image="WMaiD Data/Graphics/shots/9_61.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="62" normal_image="WMaiD Data/Graphics/shots/9_61.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="63" normal_image="WMaiD Data/Graphics/shots/9_65.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="64" normal_image="WMaiD Data/Graphics/shots/9_65.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="65" normal_image="WMaiD Data/Graphics/shots/9_65.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="66" normal_image="WMaiD Data/Graphics/shots/9_65.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="67" normal_image="WMaiD Data/Graphics/shots/9_67.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="68" normal_image="WMaiD Data/Graphics/shots/9_68.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="69" normal_image="WMaiD Data/Graphics/shots/9_69.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="70" normal_image="WMaiD Data/Graphics/shots/9_70.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+<texture coll="9" bitmap="71" normal_image="WMaiD Data/Graphics/shots/9_71.dds" normal_bloom_shift="0.4" opac_type="1" type="2" />
+
+<texture coll="4" bitmap="91" clut="0" normal_image="WMaiD Data/Graphics/shots/drone1.png" normal_bloom_shift="0.3" opac_type="1" type="2" />
+<texture coll="4" bitmap="92" clut="0" normal_image="WMaiD Data/Graphics/shots/drone2.png" normal_bloom_shift="0.3" opac_type="1" type="2" />
+<texture coll="4" bitmap="93" clut="0" normal_image="WMaiD Data/Graphics/shots/drone3.png" normal_bloom_shift="0.3" opac_type="1" type="2" />
+<texture coll="4" bitmap="94" clut="0" normal_image="WMaiD Data/Graphics/shots/drone4.png" normal_bloom_shift="0.3" opac_type="1" type="2" />
+
+<texture coll="16" clut="0" bitmap="25" normal_image="WMaiD Data/Graphics/shots/16_25.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="26" normal_image="WMaiD Data/Graphics/shots/16_26.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="27" normal_image="WMaiD Data/Graphics/shots/16_27.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="28" normal_image="WMaiD Data/Graphics/shots/16_28.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="29" normal_image="WMaiD Data/Graphics/shots/16_29.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="30" normal_image="WMaiD Data/Graphics/shots/16_30.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="31" normal_image="WMaiD Data/Graphics/shots/16_31.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="32" normal_image="WMaiD Data/Graphics/shots/16_32.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="33" normal_image="WMaiD Data/Graphics/shots/16_33.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="34" normal_image="WMaiD Data/Graphics/shots/16_34.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="35" normal_image="WMaiD Data/Graphics/shots/16_34.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="36" normal_image="WMaiD Data/Graphics/shots/16_31.dds" opac_type="1" type="2" />
+<texture coll="16" clut="0" bitmap="37" normal_image="WMaiD Data/Graphics/shots/16_37.dds" opac_type="1" type="2" />
+
+<texture coll="16" clut="1" bitmap="25" normal_image="WMaiD Data/Graphics/shots/16_25_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="26" normal_image="WMaiD Data/Graphics/shots/16_26_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="27" normal_image="WMaiD Data/Graphics/shots/16_27_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="28" normal_image="WMaiD Data/Graphics/shots/16_28_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="29" normal_image="WMaiD Data/Graphics/shots/16_29_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="30" normal_image="WMaiD Data/Graphics/shots/16_30_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="31" normal_image="WMaiD Data/Graphics/shots/16_31_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="32" normal_image="WMaiD Data/Graphics/shots/16_32_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="33" normal_image="WMaiD Data/Graphics/shots/16_33_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="34" normal_image="WMaiD Data/Graphics/shots/16_34_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="35" normal_image="WMaiD Data/Graphics/shots/16_34_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="36" normal_image="WMaiD Data/Graphics/shots/16_31_1.dds" opac_type="1" type="2" />
+<texture coll="16" clut="1" bitmap="37" normal_image="WMaiD Data/Graphics/shots/16_37_1.dds" opac_type="1" type="2" />
+
+<texture coll="16" clut="2" bitmap="25" normal_image="WMaiD Data/Graphics/shots/16_25.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="26" normal_image="WMaiD Data/Graphics/shots/16_26.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="27" normal_image="WMaiD Data/Graphics/shots/16_27.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="28" normal_image="WMaiD Data/Graphics/shots/16_28.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="29" normal_image="WMaiD Data/Graphics/shots/16_29.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="30" normal_image="WMaiD Data/Graphics/shots/16_30.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="31" normal_image="WMaiD Data/Graphics/shots/16_31.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="32" normal_image="WMaiD Data/Graphics/shots/16_32.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="33" normal_image="WMaiD Data/Graphics/shots/16_33.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="34" normal_image="WMaiD Data/Graphics/shots/16_34.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="35" normal_image="WMaiD Data/Graphics/shots/16_34.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="36" normal_image="WMaiD Data/Graphics/shots/16_31.dds" opac_type="1" type="2" />
+<texture coll="16" clut="2" bitmap="37" normal_image="WMaiD Data/Graphics/shots/16_37.dds" opac_type="1" type="2" />
+
+<texture coll="16" clut="3" bitmap="25" normal_image="WMaiD Data/Graphics/shots/16_25_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="26" normal_image="WMaiD Data/Graphics/shots/16_26_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="27" normal_image="WMaiD Data/Graphics/shots/16_27_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="28" normal_image="WMaiD Data/Graphics/shots/16_28_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="29" normal_image="WMaiD Data/Graphics/shots/16_29_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="30" normal_image="WMaiD Data/Graphics/shots/16_30_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="31" normal_image="WMaiD Data/Graphics/shots/16_31_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="32" normal_image="WMaiD Data/Graphics/shots/16_32_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="33" normal_image="WMaiD Data/Graphics/shots/16_33_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="34" normal_image="WMaiD Data/Graphics/shots/16_34_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="35" normal_image="WMaiD Data/Graphics/shots/16_34_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="36" normal_image="WMaiD Data/Graphics/shots/16_31_3.dds" opac_type="1" type="2" />
+<texture coll="16" clut="3" bitmap="37" normal_image="WMaiD Data/Graphics/shots/16_37_3.dds" opac_type="1" type="2" />
+
+
+</opengl>
+</marathon>
+

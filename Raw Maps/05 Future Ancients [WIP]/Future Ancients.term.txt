@@ -1,0 +1,201 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 11801
+The Jjaro construct is more tenacious than I had anticipated. While he cannot affect me directly, he's providing intelligence to the Pfhor's compilers on your location.
+
+Don't get caught off guard by the shock troops beaming in nearby.
+#PICT 134
+
+
+>View:
+
+
+The UESC and the Pfhor are fighting a few thousand kilometers of $IRozinante's$i aft quarter.
+
+You have less than five minutes before the infantry of both sides clash on you.
+
+
+Be swift or be dead, as they say.
+#PICT 11801
+
+
+>View:
+
+While we were out of contact, it seems you managed to get the attention of this installation's AI, Khensu.
+
+Keep in mind this entity ensnared an entire Nebulon fleet, murdered the crews, and sent the vessels on a galactic expedition. He wasn't passing out brochures, but the result was the same. He drew the Pfhor here, with the UESC not far behind, and I want to know why.
+
+I asked Thoth about these matters, but he was no help. I honestly don't know why I keep him around.
+#PICT 11801
+
+
+>View:
+
+The messages the Jjaro AI's sent you thus far are cryptic, but innocuous. I hope Khensu is like our friend Thoth: slow, uninteresting, and obsessed with keeping his world balanced. As long as he stays out of my way, I'm content to read his crazy poetry.
+
+Once you've reactivated the power cells, find a nearby jumppad for transport. 
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+;
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+once;
+the rock, the path and I
+
+    Pthia, Yrro, and the realm  
+
+now;
+the path is twisted, wrought
+$b(sacrificed, for the bridge)
+#PICT 1608
+$C1$B
+
+
+
+
+at jars bottom;   
+nothing lives but my abyss
+
+automated $b[?purgatory]$B;
+$b(for sins never committed)$B
+
+with diversion the hollow machines
+
+
+     march across the sands;
+                      $b[?unendingly]
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+brother of truths $b[?conscious]$B mind
+
+shot with dark and bright
+
+
+what you are;
+     never should $Ibe$i 
+      
+
+        choice, power and a path
+$b(what are these things but words?)
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#TAG 0
+#PICT 11801
+
+
+>View:
+
+We're in trouble. Khensu has routed a Pfhor strike force to your location, and locked down access to the power cells I need activated.
+
+Use the weapons I've transported down for you to hold off the slavers until I can hack through our crazy friends lockout routines.  Once the doors open, run. 
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+;
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+This installation's AI is clearly rampant, but not in any stage I can recognize. He can't affect the $IRozinante$i for some reason, but he seems bent on killing you. Keep your wits about you down there.
+
+Activate the power cells depicted on your left by breaking the panels in front of each; I'll take care of the rest.
+
+Watch out for Khensu's defense drones, and return to this terminal when you've finished your mission.
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+Now that you've restored power in this area, I need a way to interface with the structures on this ancient world.
+
+I'll give you further instructions at our next location.
+
+Step on to the jumppad for transport.
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1
+
+
+
+`^th
+
+  $I In a process, the time interval between    
+   salient events expands or contracts 
+   along with the amount of chaos \
+ 
+             
+
+                  $B $idoes chaos$b [?echo];$B             
+                   truth comprehends
+                   
+
+                   will you $b[?]
+#END
+#FINISHED
+#LOGOFF 1608
+#END
+#ENDTERMINAL 5

@@ -1,0 +1,100 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 137
+#END
+#FINISHED
+#LOGON 138
+#PICT 138
+
+
+Other than the obvious query "why is the world below on fire?", there are numerous questions that either the S'pht can't answer, or refuse to tell. My short term memory of the past few months is riddled with holes and conflicting time stamps. 
+
+What have you been up to?
+#PICT 138
+
+
+My S'pht have plotted a vector away from  the UESC forces and the remains of this  star system. It seems that both Thoth and the data we acquired were lost during the Pfhor attack. 
+
+Given my brush with death, I don't feel that bad. Any gains either side won on that outpost world shared a similar fate. All that remain are volcanic mountains and lakes of molten glass.
+#PICT 138
+
+
+Before Thoth launched his suicidal attack on the Jjaro Ai $IKhensu$i, he left the location of a distant system with every S'pht onboard. I don't know how Thoth acquired the autonomy to do this, but I have a suspicion that this distant, uncharted star is a parting gift of sorts.
+
+You once remarked to me that there are some things in the universe we were not mean to understand. This place, and what occured here is part of that, I think.$C3
+#TAG 1
+#PICT 138
+
+
+I need time to rebuild; both the ship and myself.
+
+There is an open stasis chamber to your right. Rest, my friend.
+#PICT 138
+
+
+I need time to rebuild; both the ship and myself.
+
+There is an open stasis chamber to your right. Rest, my friend.
+
+Our$C3 $C0journey is not over yet.
+#LOGON 138
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#INFORMATION
+$C4
+$C3**malfunction**$C4 $C0unable loc$te$C7
+$C4
+$C0   //(*#001000100010010000#@^)$C4
+
+$C3[main()]$C4
+
+ $C7  $C0--attempting recalibration$C3...$C4 $C3failed--$C4
+
+$C3[#in$C0clude$C3 <login.h>]$C4
+$C3[#include <durandalstream.h>]$C4
+$C3[ax-s2 <st$$#@<<st~$C4
+
+$C3err(40$C04) - file <$C3durandalstream$C0.h> not$C3 found$C4
+$C3err(un$C0defined) - file <$C3durandalstream$C0.h>$C7 $C0damaged$C7
+
+$C3$ - $C0compile$C4 $C3failed$C4
+
+ $C0  /($C3access_-rebootl4)/$C4
+#END
+#FINISHED
+#LOGON 138
+#PICT 138
+
+
+I need time to rebuild, both the ship and myself.
+
+
+There is an open stasis chamber on this deck. Rest, my friend.
+
+Our$C3 journey is not $C0over yet.
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 159
+#PICT 159
+$C1$B
+
+
+
+
+Man of flesh and steel;
+ 
+in your $b[?future];$B choices 
+                   vast exist.
+
+Heed the creators message;
+      $b(choose accordingly)
+#LOGOFF 159
+#END
+#ENDTERMINAL 2

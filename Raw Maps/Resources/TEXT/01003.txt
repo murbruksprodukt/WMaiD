@@ -1,0 +1,37 @@
+<marathon>
+
+<liquids>
+
+<liquid index="0" damage_freq="0">
+
+<damage type="2" base="100" random="0"/>
+
+<sound type="0" which="-1"/>
+
+<sound type="1" which="-1"/>
+
+<sound type="2" which="-1"/>
+
+<sound type="3" which="-1"/>
+
+<sound type="4" which="-1"/>
+
+<sound type="5" which="-1"/>
+
+<sound type="6" which="-1"/>
+
+<sound type="7" which="-1"/>
+
+<sound type="8" which="-1"/>
+
+</liquid>
+
+</liquids>
+
+
+<faders>
+
+<liquid index="0" fader="15" opacity="0"/>
+
+</faders>
+</marathon>

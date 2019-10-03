@@ -1,0 +1,56 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+#PICT 169
+$C1
+
+  High above, the star and sword shone 
+  brilliantly and left the stone below in 
+  darkness.
+
+  Time and the path have brought the man to 
+  this place. The inner vistas lay behind,     
+  forgotten.
+#PICT 169
+$C1
+
+  Points and places like dreams within 
+  dreams. Most now existed only as half 
+  remembered snap shots of memory.
+
+  Restlessly, he stood at stones edge and 
+  for the first time, looked deep into the 
+  night.
+
+  The stars glow lightly, an eerie 
+  iridescence that no single landscape 
+  ever possessed.$C3
+#PICT 174
+$C1
+
+  Was he forever doomed to pass like a 
+  ghost, wandering aimless through time and 
+  memory?
+
+  Eternal forces bound fate to the man.  
+  Unbreakable bonds, immune to word or 
+  sword.  
+
+  For a balanced path, such was the price.
+#PICT 174
+$C1
+
+  The shadows lurked in the void, without 
+  voice or end.
+
+  Through that darkness, he swam slowly 
+  upwards towards consciousness; leaving 
+  behind sword, star and shadows.
+#PICT 174
+$C1
+
+  Yet, the restless sense lingered.
+#LOGOFF 1607
+#INTERLEVEL TELEPORT 1
+#ENDTERMINAL 0

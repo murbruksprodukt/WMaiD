@@ -1,0 +1,8 @@
+<marathon>
+<opengl>
+<texture coll="17" bitmap="7" 
+normal_image="007.png" 
+type="0"
+/>
+</opengl>
+</marathon>

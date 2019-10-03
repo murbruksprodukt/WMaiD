@@ -1,0 +1,119 @@
+0 LOGIN durandal standard
+1 PICT dur generic 1
+2 PICT dur display error
+3 PICT dur generic 2
+4 PICT dur generic 2
+10 Tycho Logon
+20 LOGIN pfhor generic
+21 PICT pfhor generic 1
+22 PICT pfhor generic 2
+23 PICT pfhor hive
+24 Frog Blasting
+25 PICT tycho boywithgun / name
+28 Damaged pfhor logon
+29 Pfhor Column
+30 Pfhor column damaged
+31 Extra Dur Pict
+100 PICT durandal starburst
+102 lutefisk
+103 PICT dur drone wireframe
+105 PICT dur fivefinger coreshot
+106 LOGIN tycho dirty
+107 PICT dur pfhor trooper storm
+108 PICT dur 8 hairy 211
+109 PICT dur 1 hairy 210
+110 PICT dur  9 hairy 212
+111 LOGIN chimera standard
+112 LOGIN chimera broken
+113 LOGIN chim engineering
+114 PICT chim generic
+115 PICT chim fivefinger scnshot
+116 PICT chim command log
+117 PICT chim generic broken
+118 PICT chim engineering
+119 PICT chim fivefinger mapshot
+120 fusion 1
+121 fusion 2
+122 fusion 3
+123 fusion 4
+124 fusion 5
+127 PICT dur enexomer
+128 PICT tycho error07
+129 LOGIN chim haller
+200 LOGIN jjaro square
+201 Vortex
+202 PICT jjaro me young
+203 PICT jjaro the rose
+204 PICT jjaro circular math twist
+205 PICT jjaro bacteria
+206 PICT jjaro mathematic cube
+207 PICT jjaro doctor w/tall bacteria
+208 PICT jjaro fractal universe
+209 PICT jjaro printing press
+210 The Ascension Factor
+211 Science Stands Alone
+212 Comfortably Numb One
+213 Comfortably Numb Two
+214 Lysol Lady One
+215 Lysol Lady Two
+300 PICT dur orbital prison block
+303 Hex 73 preview
+304 Hex 73 plan
+305 Aardvarks closed
+306 Aardvarks open
+308 citadel preview
+310 PICT dur drone wireframe
+311 Tycho's farewell
+400 LOGIN salinger
+402 PICT sal generic 1
+403 PICT sal generic 2
+404 PICT sal generic 3
+405 PICT sal generic 4
+406 PICT sal generic 5
+407 PICT dur salinger intact
+408 PICT dur salinger damaged
+410 Damaged
+415 iwannavacuum
+417 hidden pfhor ship
+418 blasted pfhor ship
+500 LOGIN secret standard
+501 smackim inna face logon
+502 DTB
+503 Sean
+504 Sisu
+505 C Lund
+506 Dan Rudolph
+507 Scott & Whitney
+508 DTB screen
+509 Lard logon
+510 The Black Joker
+511 Tacky gameshow logon
+512 Tacky gameshow lady
+513 Tacky gameshow sponsors
+514 Hell logon
+515 Breathing Nothing logon
+516 avarice
+517 reposition
+518 betrayal
+519 escape
+520 numbers
+521 lysander
+522 Hell screen
+523 Cow Pushing Lutefisk
+524 Ruby's Logon
+525 Ruby's Diner
+527 Scott's Cow Pushing pict
+1501 Arrival
+1505 Mendacium Ex Machina
+1508 The Pfhor
+1511 Fraternus Carnifex
+1512 Hindmost Creche
+1516 Fury
+1522 A Look Beneath The Mask
+1526 Goethe's Faust
+1528 Distant Orbit
+1535 Salinger Endscreen
+1536 Pfhor Endscreen
+1551 The Salinger Incident
+1552 On Pfhor Prime
+1599 Final Screen
