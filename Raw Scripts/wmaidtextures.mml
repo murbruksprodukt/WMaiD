@@ -346,6 +346,49 @@
 <texture coll="17" bitmap="88" 
 	normal_image="WMaiD Data/Graphics/Textures/17 UESG/88.png" />
 
+<texture coll="17" bitmap="89" opac_type="3" opac_scale="0.5" opac_shift="0.5"
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/89.png" />
+
+<texture coll="17" bitmap="90" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/90.png" />
+
+<texture coll="17" bitmap="91" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/91.png" />
+
+<texture coll="17" bitmap="92" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/92.png" />
+
+<texture coll="17" bitmap="93" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/93.png"
+	glow_image="WMaiD Data/Graphics/Textures/17 UESG/93.png"
+	glow_mask="WMaiD Data/Graphics/Textures/17 UESG/93gm.png" />
+
+<texture coll="17" bitmap="94" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/94.png"
+	glow_image="WMaiD Data/Graphics/Textures/17 UESG/94.png"
+	glow_mask="WMaiD Data/Graphics/Textures/17 UESG/94gm.png" />
+
+<texture coll="17" bitmap="95" opac_type="1" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/95.png"
+	glow_image="WMaiD Data/Graphics/Textures/17 UESG/95.png"
+	glow_mask="WMaiD Data/Graphics/Textures/17 UESG/95_96gm.png" />
+
+<texture coll="17" bitmap="96" opac_type="1" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/95.png"
+	glow_image="WMaiD Data/Graphics/Textures/17 UESG/95.png"
+	glow_mask="WMaiD Data/Graphics/Textures/17 UESG/95_96gm.png" />
+
+<texture coll="17" bitmap="97" opac_type="1" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/97.png"
+	glow_image="WMaiD Data/Graphics/Textures/17 UESG/97.png"
+	glow_mask="WMaiD Data/Graphics/Textures/17 UESG/97gm.png" />
+
+<texture coll="17" bitmap="98" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/98.png" />
+
+<texture coll="17" bitmap="99" 
+	normal_image="WMaiD Data/Graphics/Textures/17 UESG/99.png" />
+
 
  <!-- Collection #18, Nebulon-->
 
@@ -521,12 +564,14 @@
 <texture coll="18" bitmap="41"
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/41.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/41.png"
-	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/41_42gm.png"  minimum_glow_intensity="0.8"/>
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/41_42gm.png" 
+	minimum_glow_intensity="0.8" />
 	
 <texture coll="18" bitmap="42"
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/42.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/42.png"
-	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/41_42gm.png"  minimum_glow_intensity="0.8"/>
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/41_42gm.png"
+	minimum_glow_intensity="0.8"/>
 
 <texture coll="18" bitmap="43" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/43.png" />
@@ -549,99 +594,131 @@
 <texture coll="18" bitmap="49" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/49.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/49.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="50" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/50.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/50.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 
 <texture coll="18" bitmap="51" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/51.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/51.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="52" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/52.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/52.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="53" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/53.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/53.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="54" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/54.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/54.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="55" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/55.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/55.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="56" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/56.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/56.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="57" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/57.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/57.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="58" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/58.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/58.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="59" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/59.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/59.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="60" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/60.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/60.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="61" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/61.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/61.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 
 <texture coll="18" bitmap="62" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/62.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/62.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="63" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/63.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/63.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="64"
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/64.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/64.png"
-	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/64_74gm.png" />
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/64_74_111gm.png"
+	glow_bloom_scale="0.5"
+	minimum_glow_intensity="0.3" />
 
 <texture coll="18" bitmap="65"
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/65.png"
@@ -666,7 +743,10 @@
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/69.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/69.png"
 	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/69gm.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8" opac_type="1" />
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
+	opac_type="1" />
 
 <texture coll="18" bitmap="70" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/70.png"
@@ -680,7 +760,9 @@
 <texture coll="18" bitmap="72"
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/72.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/72.png"
-	minimum_glow_intensity="0" glow_bloom_shift="0.5" glow_bloom_scale="0.8"
+	minimum_glow_intensity="0"
+	glow_bloom_shift="0.5"
+	glow_bloom_scale="0.8"
 	opac_type="1" />
 
 <texture coll="18" bitmap="73"
@@ -691,13 +773,193 @@
 <texture coll="18" bitmap="74"
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/74.png"
 	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/74.png"
-	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/64_74gm.png" />
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/64_74_111gm.png"
+	glow_bloom_scale="0.5"
+	minimum_glow_intensity="0.3" />
 
 <texture coll="18" bitmap="75" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/75.png" />
 
 <texture coll="18" bitmap="76" 
 	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/76.png" />
+
+<texture coll="18" bitmap="77"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/77.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/77.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/77_78gm.png"
+	glow_bloom_scale="0.5" 
+	minimum_glow_intensity="0.5" />
+
+<texture coll="18" bitmap="78"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/78.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/78.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/77_78gm.png"
+	glow_bloom_scale="0.5" 
+	minimum_glow_intensity="0.5" />
+
+<texture coll="18" bitmap="79" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/79.png" />
+
+<texture coll="18" bitmap="80" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/80.png" />
+
+<texture coll="18" bitmap="81" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/81.png" />
+
+<texture coll="18" bitmap="82" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/82.png" />
+
+<texture coll="18" bitmap="83"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/83.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/83.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/83_84gm.png"
+	glow_bloom_scale="0.7" 
+	minimum_glow_intensity="0.7" />
+
+<texture coll="18" bitmap="84"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/84.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/84.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/83_84gm.png"
+	glow_bloom_scale="0.7" 
+	minimum_glow_intensity="0.7" />
+
+<texture coll="18" bitmap="85" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/85.png" />
+
+<texture coll="18" bitmap="86" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/86.png" />
+
+<texture coll="18" bitmap="87" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/87.png" />
+
+<texture coll="18" bitmap="88" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/88.png" />
+
+<texture coll="18" bitmap="89" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/89.png" />
+
+<texture coll="18" bitmap="90" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/90.png" />
+
+<texture coll="18" bitmap="91" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/91.png" />
+
+<texture coll="18" bitmap="92" 
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/92.png" />
+
+<texture coll="18" bitmap="93"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/93.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/93.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/93_94gm.png" />
+
+<texture coll="18" bitmap="94"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/94.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/94.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/93_94gm.png" />
+
+<texture coll="18" bitmap="95"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/95.png" opac_type="1" />
+
+<texture coll="18" bitmap="96"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/96.png" opac_type="1" />
+
+<texture coll="18" bitmap="97"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/97.png" />
+
+<texture coll="18" bitmap="98"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/98.png" />
+
+<texture coll="18" bitmap="99"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/99.png" />
+
+<texture coll="18" bitmap="100"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/100.png" />
+
+<texture coll="18" bitmap="101"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/101.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/101.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/101_102gm.png"
+	glow_bloom_scale="0.5" 
+	minimum_glow_intensity="0.5" />
+
+<texture coll="18" bitmap="102"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/102.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/102.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/101_102gm.png"
+	glow_bloom_scale="0.5" 
+	minimum_glow_intensity="0.5" />
+
+<texture coll="18" bitmap="103"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/103.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/103.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/103_104gm.png"
+	glow_bloom_scale="0.3" 
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="104"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/104.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/104.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/103_104gm.png"
+	glow_bloom_scale="0.3" 
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="105"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/105.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/105.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/105_106gm.png"
+	glow_bloom_scale="0.3" 
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="106"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/106.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/106.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/105_106gm.png"
+	glow_bloom_scale="0.3" 
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="107"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/107.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/107.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/107_108gm.png"
+	glow_bloom_scale="0.7" 
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="108"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/108.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/108.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/107_108gm.png"
+	glow_bloom_scale="0.7" 
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="109"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/109.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/109.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/109_110gm.png"
+	glow_bloom_scale="0.7" 
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="110"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/110.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/110.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/109_110gm.png"
+	glow_bloom_scale="0.7" 
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="111"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/111.png"
+	glow_image="WMaiD Data/Graphics/Textures/18 Nebulon/111.png"
+	glow_mask="WMaiD Data/Graphics/Textures/18 Nebulon/64_74_111gm.png"
+	glow_bloom_scale="0.5"
+	minimum_glow_intensity="0.3" />
+
+<texture coll="18" bitmap="112"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/112.png" />
+
+<texture coll="18" bitmap="113"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/113.png" />
+
+<texture coll="18" bitmap="114"
+	normal_image="WMaiD Data/Graphics/Textures/18 Nebulon/114.png" />
 
 
   <!-- Collection #19, Ancient Jjaro -->
@@ -757,7 +1019,12 @@
   <texture coll="19" bitmap="13" 
 	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0013.png"
 	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0013.png"
-	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0013gm.png" />
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0013gm.png" 
+	opac_type="3"
+	opac_scale="0.5"
+	opac_shift="0.5" 
+	glow_bloom_scale="0.7" 
+	minimum_glow_intensity="0.7" />
 
   <texture coll="19" bitmap="14" 
 normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0014.png" type="0" />
@@ -830,14 +1097,14 @@ normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0024.png" type="0"  /
   <texture coll="19" bitmap="47" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0047.png" type="0" />
   <texture coll="19" bitmap="48" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0048.png" type="0" />
 
- <texture coll="19" bitmap="49" 
+  <texture coll="19" bitmap="49" 
 	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0049.png"
 	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0049.png"
 	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0049_57gm.png" />
 
   <texture coll="19" bitmap="50" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0050.png" type="0" />
 
-<texture coll="19" bitmap="51" 
+  <texture coll="19" bitmap="51" 
 	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0051.png"
 	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0051.png"
 	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0051_59gm.png" />
@@ -848,16 +1115,15 @@ normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0024.png" type="0"  /
   <texture coll="19" bitmap="55" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0055.png" type="0" />
 
   <texture coll="19" bitmap="56" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0056.png" type="0" />
-
   
-<texture coll="19" bitmap="57" 
+  <texture coll="19" bitmap="57" 
 	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0057.png"
 	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0057.png"
 	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0049_57gm.png" />
 
   <texture coll="19" bitmap="58" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0058.png" type="0" />
 
-<texture coll="19" bitmap="59" 
+  <texture coll="19" bitmap="59" 
 	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0059.png"
 	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0059.png"
 	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0051_59gm.png" />
@@ -880,7 +1146,7 @@ normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0024.png" type="0"  /
   <texture coll="19" bitmap="70" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0070.png" type="0" />
   <texture coll="19" bitmap="71" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0071.png" type="0" />
 
-<texture coll="19" bitmap="72" 
+  <texture coll="19" bitmap="72" 
 	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0072.png"
 	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0072.png"
 	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0072gm.png" />
@@ -932,12 +1198,201 @@ normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0024.png" type="0"  /
 	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0100.png"
 	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0100gm.png" />
   
-<texture coll="19" bitmap="101" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0101.png" type="0" />
-<texture coll="19" bitmap="102" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0102.png" type="0" />
-<texture coll="19" bitmap="103" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0103.png" glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0103.png" glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0103gm.png" opac_type="1" />
-<texture coll="19" bitmap="104" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0104.png" glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0104.png" glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0104gm.png" opac_type="1" />
+  <texture coll="19" bitmap="101" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0101.png" type="0" />
+  <texture coll="19" bitmap="102" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0102.png" type="0" />
+  <texture coll="19" bitmap="103" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0103.png" glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0103.png" glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0103gm.png" opac_type="1" />
+  <texture coll="19" bitmap="104" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0104.png" glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0104.png" glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0104gm.png" opac_type="1" />
 
-  
+  <texture coll="19" bitmap="105" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0105.png" type="0" />
+  <texture coll="19" bitmap="106" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0106.png" type="0" />
+  <texture coll="19" bitmap="107" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0107.png" type="0" />
+	
+  <texture coll="19" bitmap="108" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0108.png"
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0108.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0108gm.png"
+	glow_bloom_scale="0.2"
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="109" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0109.png"
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0109.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0109gm.png"
+	glow_bloom_scale="0.2"
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="110" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0110.png"
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0110.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0110gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="111" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0111.png" type="0" />
+  <texture coll="19" bitmap="112" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0112.png" type="0" />
+  <texture coll="19" bitmap="113" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0113.png" type="0" />
+  <texture coll="19" bitmap="114" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0114.png" type="0" />
+
+  <texture coll="19" bitmap="115" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0115.png"
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0115.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0115gm.png"
+	glow_bloom_scale="0.2"
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="116" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0116.png"
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0116.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0116gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="117" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0117.png" type="0" />
+  <texture coll="19" bitmap="118" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0118.png" type="0" />
+  <texture coll="19" bitmap="119" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0119.png" type="0" />
+  <texture coll="19" bitmap="120" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0120.png" type="0" />
+  <texture coll="19" bitmap="121" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0121.png" type="0" />
+  <texture coll="19" bitmap="122" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0122.png" type="0" />
+  <texture coll="19" bitmap="123" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0123.png" type="0" />
+  <texture coll="19" bitmap="124" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0124.png" type="0" />
+
+  <texture coll="19" bitmap="125" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0125.png"
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0125.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0125gm.png"
+	glow_bloom_scale="0.2"
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="126" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0126.png" type="0" />
+  <texture coll="19" bitmap="127" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0127.png" type="0" />
+  <texture coll="19" bitmap="128" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0128.png" type="0" />
+  <texture coll="19" bitmap="129" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0129.png" type="0" />
+  <texture coll="19" bitmap="130" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0130.png" type="0" />
+  <texture coll="19" bitmap="131" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0131.png" type="0" />
+
+  <texture coll="19" bitmap="132" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0132.png"
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0132.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0132gm.png"
+	glow_bloom_scale="0.2"
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="133" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0133.png" type="0" />
+
+  <texture coll="19" bitmap="134" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0134.png" 
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0134.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0134gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	opac_type="3"
+	opac_scale="0.5"
+	opac_shift="0.5"
+	type="0" />
+
+  <texture coll="19" bitmap="135" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0135.png" type="0" />
+  <texture coll="19" bitmap="136" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0136.png" type="0" />
+  <texture coll="19" bitmap="137" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0137.png" type="0" />
+  <texture coll="19" bitmap="138" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0138.png" type="0" />
+  <texture coll="19" bitmap="139" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0139.png" type="0" />
+  <texture coll="19" bitmap="140" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0140.png" type="0" />
+  <texture coll="19" bitmap="141" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0141.png" type="0" />
+  <texture coll="19" bitmap="142" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0142.png" type="0" />
+
+  <texture coll="19" bitmap="143" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0143.png" 
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0143.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0143gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="144" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0144.png" type="0" />
+  <texture coll="19" bitmap="145" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0145.png" type="0" />
+
+  <texture coll="19" bitmap="146" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0146.png" 
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0146.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0146gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="147" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0147.png" type="0" />
+  <texture coll="19" bitmap="148" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0148.png" type="0" />
+  <texture coll="19" bitmap="149" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0149.png" type="0" />
+  <texture coll="19" bitmap="150" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0150.png" type="0" />
+  <texture coll="19" bitmap="151" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0151.png" type="0" />
+  <texture coll="19" bitmap="152" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0152.png" type="0" />
+  <texture coll="19" bitmap="153" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0153.png" type="0" />
+  <texture coll="19" bitmap="154" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0154.png" type="0" />
+
+  <texture coll="19" bitmap="155" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0155.png" 
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0155.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0155gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="156" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0156.png" type="0" />
+  <texture coll="19" bitmap="157" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0157.png" type="0" />
+  <texture coll="19" bitmap="158" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0158.png" type="0" />
+
+  <texture coll="19" bitmap="159" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0159.png"
+	opac_type="3"
+	opac_scale="0.5"
+	opac_shift="0.5"
+	type="0" />
+
+  <texture coll="19" bitmap="160" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0160.png" type="0" />
+  <texture coll="19" bitmap="161" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0161.png" type="0" />
+  <texture coll="19" bitmap="162" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0162.png" type="0" />
+  <texture coll="19" bitmap="163" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0163.png" type="0" />
+  <texture coll="19" bitmap="164" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0164.png" type="0" />
+  <texture coll="19" bitmap="165" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0165.png" type="0" />
+
+  <texture coll="19" bitmap="166" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0166.png" 
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0166.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0166gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="167" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0167.png" type="0" />
+
+  <texture coll="19" bitmap="168" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0168.png" 
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0168.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0168gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	type="0" />
+
+  <texture coll="19" bitmap="169" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0169.png" type="0" />
+  <texture coll="19" bitmap="170" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0170.png" type="0" />
+  <texture coll="19" bitmap="171" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0171.png" type="0" />
+  <texture coll="19" bitmap="172" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0172.png" type="0" />
+  <texture coll="19" bitmap="173" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0173.png" type="0" />
+  <texture coll="19" bitmap="174" normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0174.png" type="0" />
+
+  <texture coll="19" bitmap="175" 
+	normal_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0175.png" 
+	glow_image="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0175.png"
+	glow_mask="WMaiD Data/Graphics/Textures/19 Ancientjjaro/0175gm.png"
+	glow_bloom_scale="0.2" 
+	minimum_glow_intensity="0"
+	type="0" />
+
   <!-- Collection #20, Space Jjaro -->
 
   <texture coll="20" bitmap="0" normal_image="WMaiD Data/Graphics/Textures/20 Spacejjaro/0000.png" glow_image="WMaiD Data/Graphics/Textures/20 Spacejjaro/0000.png" glow_mask="WMaiD Data/Graphics/Textures/20 Spacejjaro/0000gm.png" opac_type="1" />
