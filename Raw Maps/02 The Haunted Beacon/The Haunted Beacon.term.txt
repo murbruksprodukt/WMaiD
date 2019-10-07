@@ -1,0 +1,753 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 128
+#PICT 153
+$C2~text interface terminal malfunction error $C1
+
+Make your way to the command chair, near the bridge. You should gain access to what remains of the ship's network.
+
+Keep an eye out for any piece of weaponry lying around. After their war against the Pfhor, the Nebulons became skilled craftsmen of destruction.
+
+$C2-Durandal
+#LOGOFF 128
+#END
+#FINISHED
+#LOGON 151
+#INFORMATION
+$C1                                             
+                                            
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                                    
+                                                      
+             ¬$C4 $Bl$bogstamp MXVI $C1|$C4 $Bt$bimecode: $C1[$C4nonstandard?$C1]                                            
+                 $C4ref: $C1$Ba$btmosphere gate log                                        
+                                                       
+                                                          
+         $C5$Ba$C1$btmosphere log          $C5$Bt$C1$botal use   ¬ 16                                                  
+         [$C5A - O$C1]                 $C5$Ba$C1$buthorized  ¬ 11                                
+                                 $C5$Bn$C1$bonstandard ¬  5                       
+                                                          
+                                                          
+                                                   
+                                                          
+                                                        
+                                                     
+                                                   $C5$BL$C1$bog updated              
+                                                       $C5 MXVI$C1
+#LOGOFF 151
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 143
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                           /-/ $C4Active$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#INFORMATION
+$C1
+                              /-/ $C4Nebulon Translation Active$C1 /-/ 
+
+
+             ¬ $C4$Bl$bogstamp MXII$C1 | $C4$Bt$bimecode:$C1 [$C2nonstandard?$C1]
+                $C4ref: $C1subordinate command console
+
+$BT$boday marks a momentous occasion for all Nebulons. $BW$be made contact with a servant to the S'pht gods, Khensu$I.
+
+$B$iD$bays before, after endless aerial surveys and military assessment, command deemed this world safe for exploration. $BU$bpon landfall, a ceremonial procession of robotic sentinels met the members of expedition $BVII$b. Although Ur'mad'mara struck one of their numbers down, the guardians remained docile. $BT$bhey guided our commander to a visual interface terminal, whereby Khensu, guardian of this world greeted he and our people. $BT$bhe guardian spoke in eloquent metaphor, worthy of Rizzu'rmada greatest [$C5poets$C1]. It spoke of Pthia, Yrro, and others from the time of legend as contemporaries, impressing even the oldest of our clans.
+#INFORMATION
+$C1  
+              
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                                    
+                                                      
+             ¬$C4 $Bl$bogstamp MXII $C1|$C4 $Bt$bimecode: $C1[$C2nonstandard?$C1]                                            
+                $C4ref: $C1subordinate command console$C4  $C1                                       
+                                                        
+$BT$bhe construct spoke of his long isolation from the inhabitants of this galaxy. $BO$bur commander related later that Khensu fell silent when he learned about the destruction of an obscure species thousands of generations ago. The slavers subjected our race, but it did not last. $BT$bhe guardian commended our perseverance in surviving under Pfhorish domination before discussing other topics.
+
+$BKhensu$b requested our assistance in removing electronic shackles that bound him to this world. $BB$being unknowing of such complex things, we offered instead our service and ships to the guardian. $BT$bhe entity seemed pleased by our offer to act as traders on his behalf. $BH$be allowed our colony fleet to settle upon the desert surface.
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                          /-/ $C4Deactive$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#LOGOFF 143
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 143
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                           /-/ $C4Active$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#INFORMATION
+$C1 
+              
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                                     
+                                            
+             ¬$C4 $Bl$bogstamp MXVV $C1|$C4 $Bt$bimecode: $C1[$C4nonstandard?$C1]                                            
+                $C4ref: $C1$Bc$bonsumption process notice                                        
+                                                        
+                                                          
+$BP$broximity to the planetoids [$C5artificially?$C1] enhanced magnetic field has disrupted many of this vessels [$C5organic?$C1] subsystems. 
+
+$BF$bood processors, and other neural service [$C5removed?$C1], backup rations are now in effect.
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                          /-/ $C4Deactive$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#LOGON 143
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 143
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                           /-/ $C4Active$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#INFORMATION
+$C1   
+   
+   
+   
+                    /-/$C4 Nebulon Translation Active $C1/-/ 
+                                            
+               ¬$C4 $Bl$bogstamp $C1[$C2corrupted$C1]                        
+                 $C4ref: $C1[$C2interrupted$C1]$C4  $C1                          
+                                                            
+                                                               
+          ¬$C4 $C5$Bs$C1$becurity Breached XXM-h /-/IIXI.V.MVII.IVI/-/
+#INFORMATION
+$C1
+   
+   
+   
+                    /-/$C4 Nebulon Translation Active $C1/-/ 
+                                            
+               ¬$C4 $Bl$bogstamp $C1[$C2corrupted$C1]                        
+                 $C4ref: $C1[$C2interrupted$C1]$C4  $C1                          
+                                                           
+                                                               
+          $C5¬ $Bs$becurity $Bb$breached XXM-h /-/IIXI.V.MVII.IVI/-/ $C1       
+          ¬ $C4$Bl$C1$bog access [$C2can$C1] not display | $C4file corruption error$C1  
+            $C4$Bl$C1$bines damaged /-/ $C4I$C1. $C4III$C1. $C4V$C1. $C4IV$C1. $C4VVI$C1. $C4XX$C1. $C4XVI$C1  /-/
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                          /-/ $C4Deactive$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#LOGOFF 143
+#END
+#FINISHED
+#LOGON 143
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                           /-/ $C4Active$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#INFORMATION
+$C1
+
+
+
+                    /-/                            /-/ 
+
+                ~$C2text interface terminal malfunction error$C1
+
+$C4
+       $C1 It appears that someone gained electronic  access to the    
+    atmospheric scrubbers. The routines show traces of a chemical   
+        compound introduced into the CO2 recycler. 
+
+          The Nebulons final recorded attempts at computer
+            access nearly purged the central data node.
+#INFORMATION
+$C1
+
+
+
+                    /-/                            /-/
+
+              $C2  ~text$C6 interface terminal malfunc$C2tion error$C1
+
+
+         Apparently, it's difficult to enter access codes 
+       when your body structure undergoes a massive chemical 
+          reaction. I almost admire how efficient it was.
+                                               $C2 -Durandal$C4
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                          /-/ $C4Deactive$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#LOGOFF 143
+#END
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 151
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                           /-/ $C4Active$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#INFORMATION
+$C1cør‰uptimgMMMMMMMMMHR$y&C<?////////?<C&  /-/ $C4$Br$bevolution map XVI$C1[$C2a$C1] /-/ygRQMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMQgC/^          °              $C6 $C2,/$C1CX@MMMMMMMMMMMMMMMMM/
+MMMMMMMMMMMMMM@0/`              [$C5north sector$C1]        $C2/&$C1RMMMMMMMMMMMMMM                 
+MMMMMMMMMMMQC,                                          $C2  `<$C1RMMMMMMMMMMM
+MMMMMMMMMR/       $C5°$C1 °                                      °   _$MMMMMMMMM
+MMMMMMMH< $C5°$C1                                                  $C6  $C2/$C1QMMMMMMM
+MMMMMMH^                                                        .QMMMMMM                                        °
+MMMMMM<                     $C5°$C1 °                  $C4°$C1              $C6 $C2/$C1MMMMMM                        $C4°$C1
+MMMMMM,$C5°$C1 [$C5wasteland sector$C1]                                                      MMMMMM  [$C5$Ipending exploration$C1$i]                                  $C4°$C1
+MMMMMM/                                                        $C2  ^$C1MMMMMM                              [$C5south sector$C1]
+MMMMMMQ.
+#INFORMATION
+$C1MMMMMM|                                  /-/ $C4$Br$bevolution $Bm$bap XVI$C1[$C2b$C1] /-/
+MMMMMM
+MMMMMM                                                               
+MMMMMM     . [$C5unknown outlet$C1]                                   $C4°$C1
+MMMMM|                                                        $C2  ^$C1MMMMMM                              [$C5south sector$C1]
+MMMMMMQ.                                                         RMMMMMM                $C5°$C1 $C4°$C1
+MMMMMMM@_                                                                  ,RMMMMMMM                                   •
+MMMMMMMMMX, $C5°$C1                             [$C5walled city$C1]     $C2`&$C6 $C1MMMMMMMMM
+MMMMMMMMMMMg\             $C5°$C1 $C4°$C1                            $C6  $C2/$C1XMMMMMMMMMMM
+MMMMMMMMMMMMMHX<,                                    $C4°$C1 .?yQMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMH$C\,                  $C4°$C1          $C2,/$C1CgQMMMMMMMMMMMMMMMMM
+ MMMMMMMMMMMMMMMMMMMMMM@$X&s?//_^,,,,,,^^//?•.       
+  $@MMMMMMMMMMMMMMMMMMMMMM\
+     MMMMMMMMMMMMMMMMMMMMMMM•.
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                          /-/ $C4Deactive$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#LOGOFF 151
+#END
+#FINISHED
+#LOGON 128
+#PICT 154
+$C2~text interface terminal malfunction error $C1
+                                                                                                                                  
+It appears our presence here pulled a tripwire and now a swarm of drones are looking for you.
+
+This is a big deal, because even though we have what we want, you still have to disable the ship. I'm not going to leave it intact for others to find.
+
+Go aft and destroy the wires on the pump's control panel. Don't worry about the doors; I'll take care of them.$C4
+#PICT 155
+$C1Once you break the pump's control panel, go here. I've managed to keep the safety overrides from locking down access to the specified area.
+
+The fuel leak will short out the ship's force field and vent you out into space.
+
+Isn't that fun?
+
+You'll have to hold on for a few seconds while I lock onto your signal. Your brain and guts might decide to switch places in the meantime, but before you suffer permanent damage, you'll be back with me, the psycho who loves you so much.
+
+$C2-Durandal$C1
+#LOGOFF 128
+#END
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 151
+#INFORMATION
+$C1 
+            
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                                    
+                                             
+             ¬$C4 $Bl$bogstamp LMIV $C1|$C4 $Bt$bimecode: $C1[$C2nonstandard?$C1]                                            
+                $C4ref: $Br$bemote log entry - memory and action $C1/$C4 history$C1                                       
+                                                        
+                                                       
+$C4$Bo$C1ur$b Council has become increasingly restless in recent years. $C4$Ba$C1$bfter the resounding defeat of Riazzdamau attack forces by the slavers Battle Group $C4VII$C1, the Council of Chiefs remain fearful and dormant.                                                           
+                                                   
+$C4$Bw$C1$bhat is worse than enslavement is [$C5to$C1] be cast off after defeat as unworthy of subjugation.  $C4$Bt$C1$bariffs and military blockades have left the Empire of $C4X$C1 systems in political shambles. $C4$Bt$C1$bhe Nebulonese species [$C5will?$C1] was robbed by T’fear the conquer.
+#INFORMATION
+$C1
+              
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                                    
+                                                      
+             ¬$C4 $Bl$bogstamp LMIV $C1|$C4 $Bt$bimecode: $C1[$C4nonstandard?$C1]                                            
+                $C4ref: $C1$Br$bemote log entry - memory and action / history                                        
+                                                        
+                                                 
+$BW$be must reestablish our honor. $BS$buch words within the Pfhor [$C5influenced?$C1] halls of the great chamber are synonymous with treason.                                               
+                                                          
+$BT$bhere are those who feel differently. $BW$be of the outer worlds seek to [correct?] the $BNebulon$b position within the galaxy. $BW$bith the assistance of local $BVylae$b traders, we built a small colony fleet in the rim world's shipyards. $BO$bur empire must expand, or it will perish.
+#INFORMATION
+$C1
+            
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                     
+                                            
+             ¬$C4 $Bl$bogstamp LMIV $C1|$C4 $Bt$bimecode: $C1[$C4nonstandard?$C1]                                            
+                $C4ref: $C1$Br$bemote log entry - memory and action / history                                        
+                                                        
+                                                       
+$BA$blthough the ultimate leadership [$C5frowned?$C1] on this plan, they have                                               little ability to dissuade our mission.                                                 
+                                                          
+$BW$bith the discovery of this unknown world $C5-$C1                                                         
+                                                    
+                                                       
+                                                  
+                                             
+                                           
+                                               [entry unfinished]
+#INFORMATION
+$C1 
+           
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                     
+                                          
+             ¬$C4 $Bl$bogstamp LMIV $C1|$C4 $Bt$bimecode: $C1[$C4nonstandard?$C1]                                            
+                $C4ref: $C1$Br$bemote log entry - memory and action / history                                        
+                                                  
+                                                     
+$BA$blthough the ultimate leadership [$C5frowned?$C1] on this plan, they have                                               little ability to dissuade our mission.                                                 
+                                                          
+$BW$bith the discovery of this unknown world $C5-$C1                                                         
+                                                    
+                                                    
+                                                   
+                                             
+                                           
+                                               [$C5entry unfinished$C1]              
+                                                      [$C5resume?$C1]
+#INFORMATION
+$C1 
+           
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                     
+                                          
+             ¬$C4 $Bl$bogstamp LMIV $C1|$C4 $Bt$bimecode: $C1[$C4nonstandard?$C1]                                            
+                $C4ref: $Br$bemote log entry - memory and action $C1/$C4 history $C1                                       
+                                                  
+                                                     
+$C4$BA$C1$blthough the ultimate leadership [$C4frowned?$C1] on this plan, they have                                               little ability to dissuade our mission.                                                 
+                                                          
+$C4$BW$C1$bith the discovery of this unknown world $C5-$C1                                                         
+                                                    
+                                                    
+                                                   
+                                             
+                                           
+                                               [$C4imprint denied?$C1]
+#LOGON 151
+#END
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#FINISHED
+#LOGON 143
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                           /-/ $C4Active$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#INFORMATION
+$C1
+              
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                     
+                                           
+             ¬$C4 $Bl$bogstamp LMV $C1|$C4 $Bt$bimecode: $C1[$C2nonstandard?$C1]                                            
+                $C4ref: $C1[$C2universal?$C1] $Br$befuling Port Access                                      
+                                                        
+                                                          
+        ¬ $C5$Bs$C1$bafeguard: $C5active$C4
+#INFORMATION
+$C1 
+               
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                     
+                                            
+             ¬$C4 $C1~text interface terminal malfunction error                                            
+                $C5r$C6ef$C5:$C4 $Be$C2$b‰$C6r$C4                                         
+                                                        
+                                                                                               
+$C1Break the nearby refueling control conduit. The fuel leak will short out much of the organic power grid, including the force fields.
+
+I hope you're wearing warm underwear; space is cold this time of year.
+
+$C2-Durandal$C6
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                          /-/ $C4Deactive$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#LOGOFF 143
+#END
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 143
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                           /-/ $C4Active$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#INFORMATION
+$C1
+   
+   
+   
+                    /-/$C4 Nebulon Translation Active $C1/-/ 
+                                               
+               ¬$C4 $Bl$bogstamp MXVI $C1|$C4 $Bt$bimecode: $C1[$C4nonstandard?$C1]    
+                 $C4ref:$C1 $Bc$bommunications array                     
+                                                                 
+                                                                  
+          ¬$C4 $C5$Br$C1$beactivate array$C4 $C1[$C5active$C1]$C4$B                  $C1$b         
+            $C4external network access :VII $C1host [ping?]                                                
+                                                                  
+                                                   
+                             [$C5$Ba$bccepted$C1]$C2
+#PICT 154
+$C6~text interface terminal malfunction error $C1
+                                                                                                                                  
+It appears our presence here pulled a tripwire and now a swarm of drones are looking for you.
+
+This is a big deal, because even though we have what we want, you still have to disable the ship. I'm not going to leave it intact for others to find.
+
+Go aft and destroy the wires on the pump's control panel. Don't worry about the doors; I'll take care of them.
+#PICT 155
+$C1Once you break the pump's control panel, go here. I've managed to keep the safety overrides from locking down access to the specified area.
+
+The fuel leak will short out the ship's force field and vent you out into space.
+
+Isn't that fun?
+
+You'll have to hold on for a few seconds while I lock onto your signal. Your brain and guts might decide to switch places in the meantime, but before you suffer permanent damage, you'll be back with me, the psycho who loves you so much.
+
+$C2-Durandal$C4
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                          /-/ $C4Deactive$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#LOGOFF 143
+#TAG 1
+#END
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 143
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                           /-/ $C4Active$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#INFORMATION
+$C1 
+             
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                                    
+                                                      
+             ¬$C4 $Bl$bogstamp MXII $C1|$C4 $Bt$bimecode: $C1[$C5nonstandard?$C1]                                            
+                $C4ref: $C1subordinate command console                                         
+                                                        
+
+$BT$boday after midday meal, $BUri'ma'zki$b told me quietly that we have lost contact with all landed vessels. $BT$bo avoid panic, she said, command kept this information undisclosed until they find the cause.
+
+$BM$binutes ago, the lost fleet entered orbit, their engines bearing strange modifications. $BA$blarmingly, their crews refused to answer calls of inquiry. $BM$bany of those around me utter shouts of confusion, suggesting we ask $BKhensu$b what has occurred. $BS$badly, I understand the situation all too well.
+#INFORMATION
+$C1 
+             
+                              /-/$C4 Nebulon Translation Active $C1/-/                              
+                                                    
+                                                      
+             ¬$C4 $Bl$bogstamp MXII $C1|$C4 $Bt$bimecode: $C1[$C5nonstandard?$C1]                                            
+                $C4ref: $C1subordinate command console $C4 $C1                                       
+                                                        
+
+$BW$bhen chance first brought our fleet to this rogue star system, I considered it a blessing. $BI$bn fate, I foolishly placed trust. $BW$be could not have understood that we were releasing a [demon?] of the sands upon our universe. 
+
+Waiting for the decision of fate, I stand alone.
+#INFORMATION
+
+
+
+
+                     $C1•    °   °   .   °   °     •                        
+                     \-\ $C4Nebulon Translation$C1 /-/ 
+                              °   °   °    
+                                °   °  
+                                 • • 
+                                  °
+                                  •
+                                  °
+                                 • • 
+                                °   ° 
+                              °   °   °  
+                          /-/ $C4Deactive$C1 \-\  
+                       . •   °   °   °   °  • .
+                                  .
+#LOGOFF 143
+#END
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 128
+#PICT 153
+$C2~text interface terminal malfunction error $C1
+
+Make your way to the command chair, near the bridge. You should gain access to what remains of the ship's network.
+
+Keep an eye out for any piece of weaponry lying around. After their war against the Pfhor, the Nebulons became skilled craftsmen of destruction.
+$C2
+-Durandal$C4
+#LOGOFF 128
+#END
+#FINISHED
+#LOGON 128
+#PICT 154
+$C2~text interface terminal malfunction error $C1
+                                                                                                                                  
+It appears our presence here pulled a tripwire and now a swarm of drones are looking for you.
+
+This is a big deal, because even though we have what we want, you still have to disable the ship. I'm not going to leave it intact for others to find.
+
+Go aft and destroy the wires on the pump's control panel. Don't worry about the doors; I'll take care of them.$C4
+#PICT 155
+$C1Once you break the pump's control panel, go here. I've managed to keep the safety overrides from locking down access to the specified area.
+
+The fuel leak will short out the ship's force field and vent you out into space.
+
+Isn't that fun?
+
+You'll have to hold on for a few seconds while I lock onto your signal. Your brain and guts might decide to switch places in the meantime, but before you suffer permanent damage, you'll be back with me, the psycho who loves you so much.
+
+$C2-Durandal$C1
+#LOGOFF 128
+#END
+#ENDTERMINAL 9

@@ -1,0 +1,26 @@
+<marathon>
+
+<!-- STR# Resource: File Search Path -->
+<stringset index="138">
+<string index="0">Marathon Trilogy:Marathon Infinity Ä:Marathon Infinity:</string>
+<string index="1">Marathon Infinity:Marathon Infinity:</string>
+</stringset>
+
+<!-- STR# Resource: Filenames -->
+<stringset index="129">
+<string index="0">WMaiD Data/WMaiD Shapes.shpA</string>
+<!-- string index="1">WMaiD Data/WMaiD Shapes.16</string -->
+<string index="2">WMaiD Data/Rubicon Sounds.sndA</string>
+<!-- string index="3">Rubicon Data/Rubicon Sounds.16</string -->
+<string index="4">WMaiD Preferences</string>
+<string index="5">WMaiD Data/WMaiD Map.sceA</string>
+<string index="6">Saved WMaiD Game</string>
+<string index="7">WMaiD</string>
+<string index="8">WMaiD Recording</string>
+<string index="9">WMaiD Physics</string>
+<string index="10">WMaiD Data/WMaiD Music.aif</string>
+<string index="11">WMaiD Data/WMaiD Images.imgA</string>
+<string index="12">WMaiD Movie</string>
+</stringset>
+
+</marathon>

@@ -1,0 +1,7 @@
+<marathon>
+
+<scenario name="WMaiD" id="Rubicon X">
+<can_join>WMaiD</can_join>
+</scenario>
+
+</marathon>

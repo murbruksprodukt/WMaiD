@@ -1,0 +1,40 @@
+<marathon>
+
+ <!-- Alter liquid sounds and damage -->
+ <liquids>
+  <!-- UESC -->
+  <liquid index="0" submerged="1">
+   <sound type="5" which="-1" />
+   <damage type="-1" />
+  </liquid>
+
+  <!-- NEBULON -->
+  <liquid index="1" submerged="1">
+   <damage type="1" base="3" random="0"/>
+  </liquid>
+
+  <!-- JJARO SURFACE -->
+  <liquid index="3">
+   <damage type="-1" />
+  </liquid>
+
+  <!-- JJARO CLEANROOM -->
+  <liquid index="4" submerged="0">
+   <damage type="-1" />
+  </liquid>
+
+  <!-- PFHOR -->
+  <liquid index="2" submerged="0">
+   <damage type="-1" />
+  </liquid>
+ </liquids>
+
+ <faders>
+  <liquid index="0" fader="-1" />
+  <liquid index="3" fader="31" />
+  <fader index="31" type="2">
+   <color red=".2" green=".2" blue=".2" />
+  </fader>
+ </faders>
+
+</marathon>

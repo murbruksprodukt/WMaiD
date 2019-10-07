@@ -1,0 +1,41 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+#PICT 177
+$C1“$C5You would do great in the military. You certainly have the discipline.$C1"
+
+The dark haired man set down his tablet, and reclined in the chair. 
+"$C5Thanks for the morale boost, but I’m doing fine drawing pictures for a living.$C1”
+
+A man sat across from his friend, idly playing with a nearby gravity weight. 
+
+“$C5The government grants won’t last forever. You know that as well as I do. Sooner or later, you’ll have to face reality.$C1”
+
+“$C5As long as the council’s pushing their ‘$Iarts in the colonies$i’ agenda, I’ll make due$C1" the dark haired man responded, and resumed sketching on his art tablet.
+#PICT 178
+$C1The dark haired man turned off his workstation and went to the cabin window. 
+The other man sighed and looked at the tablets darkened screen.
+
+"$C5You can’t sit around drawing pictures forever. Tomorrow you and I can go down to the defense office in delta sector, ok?" 
+
+
+
+                 $C1"$C5$IJust$i to check it out.$C1"
+#PICT 178
+$C1After a time, the dark haired man turned back to his friend and smiled. "$C5Sure.$C1" 
+
+He looked suprised. "$C5Really?$C1"
+
+He could always use the extra income to get a bigger place, but joining the military went beyond that. Something unseen and long forgotten informed his decision; a fact he kept to himself. 
+
+Comforted by an echoing sense of purpose, the man knew he was on the right path.
+#PICT 178
+$C1The man listened to his friend's footsteps receded down the hall until only the familiar background hum remained. 
+He stepped out into the hallway, and resealed the airlock. 
+
+He should go tell his wife the good news.
+#LOGOFF 1607
+#INTERLEVEL TELEPORT 20
+#END
+#ENDTERMINAL 0

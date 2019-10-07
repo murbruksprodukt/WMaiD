@@ -1,0 +1,143 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/
+#PICT 11801
+
+
+>$C3View$C0:
+
+I've transported you into the maintaince section of a Jjaro communication node.
+
+After the UESC's initial attack, our pale three-eyed friends have increased security on key locations planetside. This is one of them.  
+
+The Pfhor's compilers are busy working away to get this relay station working.  I don't want them to succeed.
+#PICT 11801
+
+
+>$C3View$C0:
+
+If you can break every interface point you find, the $IRozaintae $iwill have a direct link to the outpost's intranet. The first of which is located directly above this terminal. 
+
+I'll do what I can to send down ammunition. Take care, and keep an eye on the time. We've a schedule to keep.
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+
+
+
+silence invades$b;$B 
+
+scattered among hundreds of ruins$b;
+$Bscattered across space and $b[?time];$B
+
+
+
+          there he waits, path unknown $b[?]$B
+  
+        $b(destiny, truth, and the sword)$B
+#LOGOFF 1608
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1608
+#PICT 1608
+$C1
+
+
+
+
+
+$Bintellect of man forced to choose;
+    $b(perfection of the life or of the work)$B
+$b
+  $Bif I  take 
+        the second must $b[?refuse]$B
+        A heavenly mansion; 
+        raging in the dark
+
+ when all the $b[?stories]$B are finished,$b $B
+             
+
+               what's the news $b[?]$B
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGON 1608
+#PICT 1608
+$C1
+
+$B`^th `'^radial-sign`l echo~$b
+
+$I   `'ke 
+
+   Time would become meaningless if there   
+   were too much of it. If death were 
+   indefinitely put off, the ^`` psyche 
+   wou$i`'' \
+
+                   `          
+     
+                                   /
+
+                     =
+    ^
+
+
+   
+                        _
+#LOGOFF 1608
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/
+#PICT 11801
+
+
+>View:
+
+This area has two shielded access nodes that I need destroyed. They're suspended off the ground with a very long drop below. Find some way to access and blast both nodes for me. 
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C1$B$I
+#END
+#FINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/
+#PICT 134
+
+
+>View:
+
+I could entertain you with an account of the events in orbit, but we don't have the time.
+
+I've located a series of artifacts with the $IRozinante's$i new intranet connection. I'm sending you to a shipping citadel currently held by the UESC.  Also, this storage building is located amidst the heaviest fighting. 
+
+Charge up before transporting. I'm sending you in without a smoke break.
+
+-Durandal
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C1$B$I
+#INTERLEVEL TELEPORT 8
+#END
+#ENDTERMINAL 3

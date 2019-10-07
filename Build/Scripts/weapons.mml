@@ -1,0 +1,365 @@
+<marathon>
+
+ <!-- Changes to the weapon name beneath the gun icon -->
+ <stringset index="137">
+  <string index="0">FISTS</string>
+  <string index="1">MAGNUM EXTRA CLASS</string>
+  <string index="2">system error 0x1d%z</string>
+  <string index="3">MA-75P PROTOTYPE / GRENADE LAUNCHER</string>
+  <string index="4">SPNKR-X18 SSM LAUNCHER</string>
+  <string index="5">NEBULON PARTICLE GUN</string>
+  <string index="6">UESC MINES</string>
+  <string index="7">WSTE-M COMBAT SHOTGUN</string>
+  <string index="8">THE BALL</string>
+  <string index="9">KKV-7 10MM SMG</string>
+ </stringset>
+
+ <!-- Changes to the weapon name in the inv. readout -->
+ <stringset index="150">
+  <string index="0">FISTS</string>
+  <string index="1">.50 MAGNUM EXTRA CLASS</string>
+  <string index="2">.50 MAGNUM EXTRA CLASS</string>
+  <string index="3">.50 CLIP (x12)</string>
+  <string index="4">.50 CLIPS (x12)</string>
+  <string index="5">system error 0x1d%z</string>
+  <string index="6">[?0x1d%z] CLIP</string>
+  <string index="7">[?0x1d%z] CLIPS</string>
+  <string index="8">MA-75P ASSAULT RIFLE</string>
+  <string index="9">MA-75P CLIP (x52)</string>
+  <string index="10">MA-75P CLIPS (x52)</string>
+  <string index="11">MA-75P GRENADES (x7)</string>
+  <string index="12">MA-75P GRENADES (x7)</string>
+  <string index="13">SPNKR-X18 SSM LAUNCHER</string>
+  <string index="14">SSM MISSLE (x2)</string>
+  <string index="15">SSM MISSLES (x2)</string>
+  <string index="16">UESC MINES</string>
+  <string index="17">SHOTGUN SHELL (x2)</string>
+  <string index="18">SHOTGUN SHELLS (x2)</string>
+  <string index="19">NEBULON PARTICLE GUN</string>
+  <string index="20">CHARGED PARTICLE CELL</string>
+  <string index="21">CHARGED PARTICLE CELLS</string>
+  <string index="22">POWERPC 620 CHIP</string>
+  <string index="23">POWERPC 620 CHIPS</string>
+  <string index="24">ALIEN ENERGY CONVERTER</string>
+  <string index="25">NEBULON PLASMA RIFLE</string>
+  <string index="26">THE PLANS</string>
+  <string index="27">WSTE-M COMBAT SHOTGUN</string>
+  <string index="28">WSTE-M COMBAT SHOTGUNS</string>
+  <string index="29">MISSION UPLINKS</string>
+  <string index="30">BLANK UPLINK CHIP</string>
+  <string index="31">UPLINK CHIP</string>
+  <string index="32">UPLINK CHIPS</string>
+  <string index="33">Ryan's Light Blue Ball</string>
+  <string index="34">SKULL</string>
+  <string index="35">Violet Ball</string>
+  <string index="36">Yellow Ball</string>
+  <string index="37">Brown Ball</string>
+  <string index="38">Orange Ball</string>
+  <string index="39">Blue Ball</string>
+  <string index="40">Green Ball</string>
+  <string index="41">KKV-7 10MM SMG</string>
+  <string index="42">10MM FLECHETTE MAGAZINE</string>
+  <string index="43">10MM FLECHETTE MAGAZINES</string>
+ </stringset>
+
+<weapons>
+	<order index="0" weapon="0"/>
+	<order index="1" weapon="1"/>
+	<order index="2" weapon="7"/>
+	<order index="3" weapon="3"/>
+	<order index="4" weapon="2"/>
+	<order index="5" weapon="5"/>
+	<order index="6" weapon="4"/>
+	<order index="7" weapon="9"/>
+	<order index="8" weapon="6"/>
+	<order index="9" weapon="8"/>
+</weapons>
+
+ <!-- Changes to the HUD -->
+ <interface>
+
+  <!-- MAGNUM -->
+ 	<weapon index="1" left="488">	<ammo index="0" left="496" across="12"/>	<ammo index="1" left="423" across="12"/>  	</weapon>
+  <!-- OLD ALIEN WEAPON -->
+  <weapon index="2">
+   <ammo index="0" type="1" across="100" delta_x="30" delta_y="50" left="430" top="370" />
+  </weapon>
+
+	<!-- ASSAULT RIFLE -->
+	<weapon index="3" left="442">
+   	<ammo index="0" left="389"/>
+	<ammo index="1" left="388"/>
+	</weapon>
+
+	<!-- SHOTGUN -->
+	<weapon index="7" top="382">
+	</weapon>
+
+  <!-- FUSION GUN -->
+  <weapon index="5" left="432">
+   <ammo index="0" type="1" across="30" delta_x="12" delta_y="50" left="404" top="372" />
+  </weapon>
+
+  <!-- UESC MINES -->
+  <weapon index="6" left="433" top="360">
+  </weapon>
+
+ </interface>
+
+<opengl>
+
+<!-- FISTS -->
+<texture coll="01" bitmap="0"
+	normal_image="WMaiD Data/Graphics/Weapons/fist/fistIdle.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="1"
+	normal_image="WMaiD Data/Graphics/Weapons/fist/fistPunch1.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="2"
+	normal_image="WMaiD Data/Graphics/Weapons/fist/fistPunch2.png"
+	opac_type="1"
+/>
+
+<!-- PISTOL --><texture coll="01" bitmap="3"	normal_image="WMaiD Data/Graphics/Weapons/pistol/pistolIdle.png"
+	opac_type="1"/><texture coll="01" bitmap="4"	normal_image="WMaiD Data/Graphics/Weapons/pistol/pistolFire1.png"
+	opac_type="1"/><texture coll="01" bitmap="5"	normal_image="WMaiD Data/Graphics/Weapons/pistol/pistolFire2.png"
+	opac_type="1"/><texture coll="01" bitmap="6"	normal_image="WMaiD Data/Graphics/Weapons/pistol/pistolFire3.png"
+	opac_type="1"/><texture coll="01" bitmap="7"	normal_image="WMaiD Data/Graphics/Weapons/pistol/pistolFire4.png"
+	opac_type="1"/><texture coll="01" bitmap="8"	normal_image="WMaiD Data/Graphics/Weapons/pistol/pistolLoad1.png"
+	opac_type="1"/><texture coll="01" bitmap="9"	normal_image="WMaiD Data/Graphics/Weapons/pistol/pistolLoad2.png"
+	opac_type="1"/><texture coll="01" bitmap="10"	normal_image="WMaiD Data/Graphics/Weapons/pistol/pistolLoad3.png"
+	opac_type="1"/>
+
+<!-- SHOTGUN -->
+<texture coll="01" bitmap="11"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunIdle.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="12"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunFire1.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="13"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunFire2.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="14"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunFire3.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="16"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunLoad1.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="17"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunLoad2.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="18"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunLoad3.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="19"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunLoad4.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="20"
+	normal_image="WMaiD Data/Graphics/Weapons/shotgun/shotgunLoad5.png"
+	opac_type="1"
+/>
+
+<!-- ASSAULT RIFLE -->
+
+<texture coll="01" bitmap="21"
+	normal_image="WMaiD Data/Graphics/Weapons/AR/ARidle.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="22"
+	normal_image="WMaiD Data/Graphics/Weapons/AR/ARfire1.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="23"
+	normal_image="WMaiD Data/Graphics/Weapons/AR/ARfire2.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="24"
+	normal_image="WMaiD Data/Graphics/Weapons/AR/ARload1.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="25"
+	normal_image="WMaiD Data/Graphics/Weapons/AR/ARload2.png"
+	opac_type="1"
+/>
+
+<!-- UESC MINES -->
+
+<texture coll="01" bitmap="26" 
+	normal_image="WMaiD Data/Graphics/Weapons/mine/mine.png" 
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="27" 
+	normal_image="WMaiD Data/Graphics/Weapons/mine/mine2.png" 
+	opac_type="1"
+/>
+
+<!-- ROCKET LAUNCHER -->
+
+<texture coll="01" bitmap="30" 
+	normal_image="WMaiD Data/Graphics/Weapons/Rocket/Rocket.png" 
+	opac_type="1"
+/>
+
+<!-- NEBULON GUN -->
+
+<texture coll="01" bitmap="48" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Reload1.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="49" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Reload2.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="50" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Reload3.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="51" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Reload4.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="52" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Reload5.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="74" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Idle1.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="75" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Fire1.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="76" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Fire2.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="77" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Fire3.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="78" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Fire4.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="79" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Fire5.png"
+	opac_type="1"
+/>
+
+<texture coll="01" bitmap="80" 
+	normal_image="WMaiD Data/Graphics/Weapons/nebulon/Fire6.png"
+	opac_type="1"
+/>
+
+<!-- SMG -->
+
+<texture coll="01" bitmap="65" 
+	normal_image="WMaiD Data/Graphics/Weapons/SMG/f1.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="66" 
+	normal_image="WMaiD Data/Graphics/Weapons/SMG/f2.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="67" 
+	normal_image="WMaiD Data/Graphics/Weapons/SMG/r1.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="68" 
+	normal_image="WMaiD Data/Graphics/Weapons/SMG/r2.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="69" 
+	normal_image="WMaiD Data/Graphics/Weapons/SMG/r3.png"
+	opac_type="1"
+/>
+
+<!-- Alien Weapon -->
+
+<texture coll="01" bitmap="71" 
+	normal_image="WMaiD Data/Graphics/Weapons/alien/alien.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="72" 
+	normal_image="WMaiD Data/Graphics/Weapons/alien/alienf1.png"
+	opac_type="1"
+/>
+
+<!-- Shells -->
+
+<texture coll="01" bitmap="34" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/34.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="35" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/35.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="36" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/36.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="37" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/37.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="38" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/38.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="39" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/39.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="40" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/40.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="41" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/41.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="42" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/42.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="43" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/43.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="44" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/44.png"
+	opac_type="1"
+/>
+<texture coll="01" bitmap="45" 
+	normal_image="WMaiD Data/Graphics/Weapons/shells/45.png"
+	opac_type="1"
+/>
+
+</opengl>
+
+<cheats on="true"/>
+</marathon>

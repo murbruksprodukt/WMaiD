@@ -1,0 +1,60 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+
+That was an interesting diversion.
+
+While you were on the other side of the planet, this building sustained another direct orbital punch from the Pfhor. 
+
+You need to get out of there. Now.
+#PICT 131
+
+
+>View:
+
+
+There's a terminal close to this buildings perimeter that still has a sufficiently intacted power source. I was never the religious type, but I suggest it's time to pray. The ruins you're in are on the verge of collapse.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+
+Prepare$C3 $C0for transport.
+       <$C3spurrious$C0_$C3interrupt$C0>$C3
+#PICT 142
+
+
+$C3
+
+
+$C1$BYour construct send you above
+$b(To combat your own kind)$B
+
+Draw on memories past;
+To serve the present$C3$b
+$C1$B
+Unendingly circular, is his path.
+$b(Follow the good shephard)
+
+$BInto sleep, and beyond
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#INTERLEVEL TELEPORT 11
+#ENDTERMINAL 1

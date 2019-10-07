@@ -1,0 +1,14 @@
+<marathon>
+
+<!-- Object Collision Detection -->
+
+<scenery>
+<!-- Nebulon corpse -->	<object index="8" flags="0"/>
+</scenery>
+
+<opengl>
+
+<fog on="true" type="0" depth="35" landscapes="false"><color red="1" green="0.4" blue="0.96"/></fog>
+
+</opengl>
+</marathon>

@@ -1,0 +1,33 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 0
+$C3<4 398y4 893>
+#PICT 3
+
+
+
+Welcome home.
+
+Apparently, the pfhor surrender after the initial attack was just a way to buy time until they could find what they came for in the first place.
+
+Go pick up your stuff, and then log on again. You wouldn't want to go into battle without your pants on now do you?
+
+Yes, I know the $IRozinante$i is being invaded by the pfhor. It's nothing my S'pht can't handle. Just ignore them. You've got more important things to do.
+#LOGOFF 0
+<98y 4598y>
+#END
+#FINISHED
+#LOGON 0
+#PICT 2
+
+The pfhor have what they came for. I hope it isn't what I think it is.  We need to stop them from taking it back to Pfhor Prime, or worse, from sending it to Earth.
+
+I'm teleporting you aboard the $IN'far'l$i, the flagship of Battle Group 3, where I need you to locate the bridge of the ship.  After you determine the whereabouts of the bridge, I will be able to target my attacks against it with enough precision so as to destroy the ship almost immediately.  Without the $IN'far'l,$i the rest of the pfhor fleet in the formation will have to fend for themselves, freeing me to slaughter them with impunity.
+
+That's something I want very badly to do.  You are going to make it possible.
+#LOGOFF 0
+$C3<Xtrmn8>
+#INTERLEVEL TELEPORT 10
+#END
+#ENDTERMINAL 0

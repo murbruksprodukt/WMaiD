@@ -1,0 +1,138 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+#PICT 173
+$C1
+
+The official records were probably destroyed, but the origins of this war had as much to do with the UESC as the Icarus government. As it became less profitable to trade with the asteroid colonies, Earth and Martian trade eventually dried up. Left to take care of our own needs, the Republic of Thermoplyae was thrown from an era of affluence into recession. 
+
+It was decided by politicians that if the dominion was to survive, it must expand to the rich mining resources of the surrounding asteroid belt. Similar conditions must have hit Icarus, as expansion teams from both our colonies met on the drifting rock designated Onicis 429. A firefight erupted, resulting in a mutual retreat. So began the Onicis War of 2194.
+#PICT 132
+$C1
+
+Like a half remembered dream, during the wars outset I watched the view screen coverage. Twenty thousand people perished in the Icarus military bombardment of Leonidas. The burning embers of a city allied with the Thermoplyae Republic redoubled the local DANGI Corporation's efforts.
+
+The conflict escalated quickly, swallowing up the merger reserves of colonial soldiers Thermoplyae employed. Recruitment into the military soon became necessary as other sources of work dried up.
+#PICT 132
+$C1
+
+As I walk down the corridor to the recruitment office, I tell myself it wasn't the nationalist rhetoric, or some abstract need to prove myself that brought me here.
+
+It was the necessity to protect my parents and the lives of the other colonists that opened the door, and the grim acceptance of my place in the universe that closed it behind me.
+#TAG 1
+#LOGOFF 1607
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1607
+#PICT 132
+$C1
+
+$IThermoplyae's$i Marine Corps were not dissimilar from any other military organization.  Training emphasized infantryman fundamentals of weapons training and small unit tactics. 
+
+I was quickly identified as an officer candidate, and rushed through the program. While others failed, demoted or died during the harsh training, I excelled. I always was stronger and more adept than everyone else.
+
+Duty during the $IOnicis 492$i asteroid war was typically a matter of enduring days of tense non-combat, randomly interspersed vicious assaults from enemy forces.
+#PICT 132
+$C1
+
+This tedium was occasionally relieved by a large scale search and destroy operation. The exhilaration of riding the lead troopship into enemy territory was also followed by the appearance of a new enemy weapon. 
+
+With every new Assault rifle, modified fission cutter, or biological toxin, a few more corpses were added to our weekly body count.
+#PICT 130
+$C1
+
+In the early months of the war, more than lessons of fear, courage, and suffering, I learned about the inevitability of death. Everyone loses their sense of immortality over the years, but it should occur gradually, during comfortable years watching the stars spin overhead.
+
+Knowledge of the merciless limits placed on man's existence were the only tangible prize to be won on that Asteroid. Mine came from a nameless $IIcarus$i soldiers' M.75 gernade.
+#PICT 130
+$C1
+
+Some considered this realization a blessing, living each day as their last. 
+
+Besides, no one wants to live forever.
+#TAG 2
+#LOGOFF 1607
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1607
+#INFORMATION
+$C1
+I'm fastened to a cold table; my hands and legs feel like they're asleep. 
+
+                 Something moves to my left, but my eyes won't focus. 
+
+        $C5Memories flooded back.$C1   
+
+            My apartment, 
+   
+                       lying on a street riddled with shrapnel, 
+  
+
+  attending an orbital concert with fiance. 
+
+Something moves again, its shadows rendered in shades of purple and blue. The color of
+#PICT 129
+$C1
+
+An comm. filtered voice mumbles something indistinct as my eyes gradually focus on a nearby bank of blinking lights.  
+
+Two men equipped with biohazard gear take form from the darkness. One of the men begins pushing my table into the dark. Through a filtered comm. link, I hear "$C5Bring one of the women in next$C1".
+
+Straining to see anything beyond the dark ceiling, I struggle at the restraints holding my numb limbs. "$C5Whoa$C1" utters one vacuum suited technician. 
+
+"$C5This things got some life in it after all$C1"
+#TAG 3
+#LOGOFF 1607
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1607
+#INFORMATION
+$C1   A new room, so awash in light that it hurts my eyes. 
+
+Someone wearing an incandescent lab coat turns from a monitor, their eyes hollow and dark. 
+
+"$C5Your memories are a liability to us$C1," the man remarks. 
+
+"$C5We can't have you trying to resume your old life$C1."
+
+I tried to speak, but the words are fumbled and disjointed.
+
+"$C5You should thank us. We are going to spare you the fate that awaits those who survived this war by natural means. Fear of the darkness, an inability to concentrate, a fear of loud noises$C1..." The man trails off as his hands play over a control deck.
+
+"... $C5a susceptibility to fatigue$C1,$C5 depression$C1,$C5 and rage$C1.$C5 With augmented memories, we spare you the nightmares of a life long dead$C1."
+#PICT 181
+$C1
+
+He looks directly into my eyes, revealing the face of a man clear in his convictions. 
+
+"$C5Besides$C1,$C5 you couldn$C1'$C5t rejoin civilian life if you wanted to. What would you have in common with the average colonist now$C1?" 
+
+He utters a dry laugh as he turns away. "$C5They're all dead anyway$C1".
+
+"$C5H$C1-$C5 How$C1?" I manage to stammer. The man doesn't reply.
+#PICT 180
+$C1
+
+I notice the sensors attached to my head and face, and look at the scientist in horror. He smiles.
+
+"$C5From now on, you will remember what we want you to remember$C1." 
+
+As a searing pain inches its way through my skull, I look to the door.
+
+Emblazoned upon it is the symbol of a Unified Earth Space Council.
+
+Like a melting view screen, the world dissolves into blazing silhouettes of black and red.
+#LOGOFF 1607
+#INTERLEVEL TELEPORT 12
+#END
+#ENDTERMINAL 3

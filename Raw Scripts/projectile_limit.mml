@@ -1,0 +1,6 @@
+<marathon>
+	<dynamic_limits>
+		<!-- Raise projectile limit to 1024, which is 8 times the default -->
+		<projectiles value="1024"/>
+	</dynamic_limits>
+</marathon>

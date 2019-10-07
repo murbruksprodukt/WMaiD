@@ -1,0 +1,101 @@
+<marathon>
+<opengl>
+<!-- Collection 7: Items  -->
+<texture coll="7" bitmap="0" 
+	normal_image="WMaiD Data/Graphics/Items/Rocket.png" opac_type="1"/>
+
+<texture coll="07" bitmap="1"	normal_image="WMaiD Data/Graphics/Items/pistolItem.png"	opac_type="1"/>
+
+<texture coll="7" bitmap="2" 
+	normal_image="WMaiD Data/Graphics/Items/nebulon_ar.png" opac_type="1"/>
+
+<texture coll="7" bitmap="3" 
+	normal_image="WMaiD Data/Graphics/Items/FusionAmmo.png" opac_type="1"/>
+
+<texture coll="07" bitmap="4"	normal_image="WMaiD Data/Graphics/Items/MGItem.png"	opac_type="1"/>
+
+<texture coll="7" bitmap="5" 
+	normal_image="WMaiD Data/Graphics/Items/Shotgun.png" opac_type="1"/>
+
+<texture coll="7" bitmap="6" 
+	normal_image="WMaiD Data/Graphics/Items/smgammo.png" opac_type="1"/>
+
+<texture coll="7" bitmap="7" 
+	normal_image="WMaiD Data/Graphics/Items/ShotgunAmmo.png" opac_type="1"/>
+
+<texture coll="7" bitmap="8" 
+	normal_image="WMaiD Data/Graphics/Items/AmmoMG.png" 
+	opac_type="1"/>
+
+<texture coll="7" bitmap="9" 
+	normal_image="WMaiD Data/Graphics/Items/AmmoMGG.png" 
+	opac_type="1"/>
+
+<texture coll="07" bitmap="10"	normal_image="WMaiD Data/Graphics/Items/pistolMag.png"	opac_type="1"/>
+
+<texture coll="07" bitmap="13"
+	normal_image="WMaiD Data/Graphics/Items/powerup.png"
+	normal_mask="WMaiD Data/Graphics/Items/powerupm.png"
+	glow_image="WMaiD Data/Graphics/Items/powerup.png"
+	glow_mask="WMaiD Data/Graphics/Items/powerupgm.png"
+	opac_type="1"
+/>
+
+<texture coll="07" bitmap="14"
+	normal_image="WMaiD Data/Graphics/Items/chip.png"
+	glow_image="WMaiD Data/Graphics/Items/chip.png"
+	glow_mask="WMaiD Data/Graphics/Items/chipgm.png"
+	normal_mask="WMaiD Data/Graphics/Items/chipm.png"
+	opac_type="1"
+/>
+
+<texture coll="07" bitmap="16"
+	normal_image="WMaiD Data/Graphics/Items/health1x.png"
+	opac_type="1"
+/>
+
+<texture coll="07" bitmap="17"
+	normal_image="WMaiD Data/Graphics/Items/health2x.png"
+	opac_type="1"
+/>
+
+<texture coll="07" bitmap="18"
+	normal_image="WMaiD Data/Graphics/Items/health3x.png"
+	opac_type="1"
+/>
+
+<texture coll="07" bitmap="19"
+	normal_image="WMaiD Data/Graphics/Items/oxygen.png"
+	opac_type="1"
+/>
+
+<texture coll="7" bitmap="20" 
+	normal_image="WMaiD Data/Graphics/Items/alienweapon.png" 
+	normal_mask="WMaiD Data/Graphics/Items/alienweaponA.png" opac_type="1"/>
+
+<texture coll="7" bitmap="21" 
+	normal_image="WMaiD Data/Graphics/Items/RocketAmmo.png" opac_type="1"/>
+
+<texture coll="7" bitmap="23" 
+	normal_image="WMaiD Data/Graphics/Items/mineammo.png" opac_type="1"/>
+
+<texture coll="7" bitmap="24" 
+	normal_image="WMaiD Data/Graphics/Items/SMG.png" opac_type="1"/>
+
+<texture coll="07" bitmap="25"	normal_image="WMaiD Data/Graphics/Items/vial.png"	normal_mask="WMaiD Data/Graphics/Items/vialm.png"	opac_type="1" />
+	
+<texture coll="07" bitmap="41"
+	normal_image="WMaiD Data/Graphics/Items/mine_item1.png"
+	opac_type="1"
+/>
+	
+<texture coll="07" bitmap="42"
+	normal_image="WMaiD Data/Graphics/Items/mine_item2.png"
+	glow_image="WMaiD Data/Graphics/Items/mine_item2.png"
+	glow_mask="WMaiD Data/Graphics/Items/mine_item2_gm.png"
+	opac_type="1"
+/>	
+	
+</opengl>
+
+</marathon>

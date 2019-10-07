@@ -1,0 +1,462 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 166
+$C4shel.override$C7://$C0Nowhereland$C3:21$C0
+#PICT 136
+$C3shel.$C0override
+----------$C3begin external feed$C0
+
+Here's a question, my friend. 
+
+Are you a ghost? 
+
+How did you manage to transport yourself onto the token Government vessel inside the UESCs armada?
+
+All methods I have attempted to transport you off board met with futility.
+#PICT 142
+$C3shel.$C0override
+----------$C3begin external feed$C0
+
+Here's a question, my friend. 
+
+Are you a ghost? 
+       $C3<spurrious_interrupt>
+$C0
+
+$C1$BYour $b[?my]$B construct
+does not comprehend.
+
+In other realms; 
+$b(chaos rains upon the sand)$B
+
+I chose an alternate for you.
+$b(As all roads lead to oblivion save one)$B
+
+Burn a path
+#PICT 136
+$C3shel.$C0override
+----------$C3begin external feed$C0
+
+Here's a question, my friend. 
+
+Are you a ghost? 
+
+How did you manage to transport yourself onto the token Government vessel inside the UESCs armada?
+
+All methods I have attempted to transport you off board met with futility.
+
+Thoths' response to the matter was decidely evasive. Some things never change.
+#PICT 136
+While you are there, go make a raid on the ships weapons supply. It should be near the morgue.
+
+I can not do much planet side without your ability to punch switches. Try and find some way off board before those Jjaro drones make a mess of things.
+
+
+
+
+----------$C3end external feed$C0
+end.s$C3hel$C0/burst
+#LOGOFF 166
+$C4shel.override$C7://$C0Nowhereland$C3:21$C0
+#END
+;
+#FINISHED
+#Logon 161
+
+#PICT 161
+
+ *$C3*$C0*$C3*$C0*Heat safe guards in place via*$C3*$C0*$C3*$C0*    
+ **$C3*$C0*$C3*$C0*$C3*$C0*$C3*$C0*$C3hardwired $C0circuitry*$C3*$C0*$C3*$C0*$C3*$C0*$C3*$C0**
+
+    $C2**$C6**$C2*W$C6A$C2R$C6N$C2I$C6N$C2G S$C6A$C2F$C6E$C2G$C6U$C2A$C6R$C2D$C6S$C2 F$C6A$C2I$C6L$C2E$C6D$C2*$C6**$C2**$C0
+
+ Probable Cause:$C3Redirection of excessive  $C0  
+                $C3DC power to ship engines$C0.
+  
+ Solution:      $C3Dissipating heat from ship $C0    
+                $C3engines.$C0
+ ****Methods currently available for****  
+ ****Dissipation of heat energy:NONE****
+
+  $C3*$C4WARNING$C0 LOCAL SHIP SYSTEMS SUBJECT TO$C3*$C0   
+               $C2*$C6*$C2F$C6A$C2I$C6L$C2U$C6R$C2E$C6*$C2*$C0 
+       *$C3*$C0*$C3DUE TO $C2E$C6X$C2T$C6R$C2E$C6M$C2E$C3 STRESSES$C0*$C3*$C0*
+
+      $C2373337373635363537343641363537$C0
+      $C633$C23$C67353733324$C233$C6230374136463$C27$C632$C0
+      $C2364237333230363736463645363532$C0
+          $C6303645373$C253$C673437333231
+#LOGOFF 162
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 165
+#PICT 167
+$C4   $UFission CORE Control$C0$u
+
+ Energy output:  $C398% maximum -diverted to 
+ weapons manifold$C0
+$C1
+ Coolant level: $C0 $C3Normal$C0
+
+ Radiation:    |$C3Contained$C0| 
+
+$C4>Command line open_$C0
+#PICT 167
+$C4   $UFission CORE Control$C0$u
+
+ Energy output:  $C398% maximum -diverted to 
+ weapons manifold$C0
+$C1
+ Coolant level: $C0 $C3Normal$C0
+
+ Radiation:    |$C3Contained$C0| 
+
+$C4>Command line open_$C0
+   User: $C3XXXXXXX$C0
+   PASS:
+#TAG 2
+#PICT 167
+$C4   $UFission CORE Control$C0$u
+
+ Energy output:  $C398% maximum -diverted to 
+ weapons manifold$C0
+$C1
+ Coolant level: $C0 $C3Normal$C0
+
+ Radiation:    |$C3Contained$C0| 
+
+$C4>Command line open_$C0
+   User: $C3XXXXXXX$C0
+   PASS: •••••••
+$C4>OPEN Manifold sub. access/CORE/
+ safety.accessport/$C0
+$C3 /OPEN/$C0
+
+.accessport3 override $C3Opened$C0.
+#PICT 167
+$C4   $UFission CORE Control$C0$u
+
+
+$C4>    Upon accessport deactivation:
+$C3Reroute 98% power from .weapons to .engines via Core$C0
+         
+
+
+
+
+
+
+
+
+
+
+ $C3*$C0*$C3*$C0*$C3*$C0*$C3*$C0**$C2W$C6A$C2R$C6N$C2I$C6N$C2G$C6:$C2 T$C6H$C2I$C6S$C2 P$C6R$C2O$C6C$C2E$C6D$C2U$C6R$C2E$C3*$C0*$C3*$C0*$C3*$C0*$C3*$C0**$C2 
+  $C3*$C0*$C3*$C0*$C3*$C0*$C3*$C0**$C2I$C6S$C2 H$C6I$C2G$C6H$C2L$C6Y$C2 D$C6A$C2N$C6G$C2E$C6R$C2O$C6U$C2S$C3*$C0*$C3*$C0*$C3*$C0*$C3*$C0**
+         *$C3*$C0$UProceed with caution$C3$u*$C0*
+#LOGOFF 165
+#END
+;
+#FINISHED
+#LOGOFF 162
+/$C2er$C6r$C20rxF$C6D $C0.$C3FC$C0o_/
+#END
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 148
+#PICT 148
+
+$C4Log. Entry UESG-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C0201.279.1.2                
+Begin$C3.$C0log$C3/$C0
+$C3
+$C0
+I really don’t know what to believe anymore.
+
+In the fragments I can remember, I stand on the deck of this ship - but it’s no longer the ship I knew. 
+
+It is without life, one of many scarred remains, drifting in space. 
+
+I’ll wake up drenched in sweat, standing in the same place I was during my dream aboard this ship. I don’t understand, but I want to. God, how I want to.$C3
+#PICT 148
+
+
+I think I'm delusional - a speculation the ships doctor supports.
+
+The sleep walking episodes are occurring more frequently as we approach some obscure star system. 
+
+$C3 &^! $C0starting to lose touch with what’s in my head, and what’s happening around me. 
+
+On an government ship, that’s not a good thing.
+
+
+
+
+
+$C3/$C0End$C3.$C0log
+$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4--$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C0201.279.1.2
+#LOGOFF 148
+#END
+;
+#FINISHED
+#LOGON 148
+#PICT 148
+
+$C4Log. Entry UESG-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C0201.279.1.3                
+Begin$C3.$C0log$C3/$C0
+$C3
+$C0
+My last dream was profoundly different from the rest. 
+
+Instead of occuring in the wreckage of a ship - this ship - I’m somewhere else. 
+Walking down long corridors, everything is open to space and the vacuum beyond - towards an icon.
+I can’t read what it means, I only know it’s important.
+These memories are so vivid when I awake, but  fade quickly. When I read my earlier entries, I don’t remember having wrote them. It is as if someone else, like me but not, typed out the paragraphs - then faded away.
+#PICT 148
+
+I know somewhere outside of my own delusions there is some deeper truth hidden within these entries. But what? 
+
+Am I losing my mind? 
+
+I’m not much of a spiritual person, but I’ve never denied the existence of God. Is the path laid out before me through fragmented memories inevitable? Am I predestine to die in these halls for some greater purpose? 
+
+I don’t plan to stay around and find if I'm actually crazy. At the first sign of the end, an escape pod awaits.
+#PICT 148
+
+
+
+
+
+
+$C3
+
+
+$C0
+
+
+
+
+
+
+
+
+
+$C3/$C0End$C3.$C0log
+$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4--$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C0201.279.1.3
+#LOGOFF 148
+#END
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 165
+$C4Teleporter Pad Terminal$C7<$C493.53.211.53$C7>
+/exo-transport lockdown/$C4
+#INFORMATION
+$C1
+
+
+
+
+                         $C0*$C3*$C4Intra deck transport$C1
+                         $C0*$C3*$C0Activity Log:$C3
+$C1                  $C3  *$C0-----$C3Attempt number 1$C0-----$C3
+$C1                    $C0Targets Locked-$C3
+$C1                  $C3  *$C01$C3 Organic/Composite $C0Units$C3
+$C1                  $C3  *$C00$C3 Nonorganic $C0Units$C3
+$C1                      $C3  *$C6LOCKED
+
+
+            $C3*$C0*$C3*JUMP PAD ACTIVATION INITIATION START***
+                    *$C0*$C3*$C0TRANSPORT WHEN READY$C3***
+#LOGOFF 165
+$C4Teleporter Pad Terminal$C7<$C493.53.211.53$C7>
+/exo-transport lockdown/$C4
+#INTRALEVEL TELEPORT 594
+#END
+;
+#FINISHED
+#LOGON 162
+$C4shel.override$C7://$C1unknown
+#PICT 142
+
+
+
+
+
+
+$C1$BYour equation exists.
+Mind and action;
+action and consequence.
+
+To slavers I will send you;
+distract, guide, follow this path.
+$C0 $C1
+$b[?Pandoras box]$B and temptation;
+     lurking below
+Draw your construct away
+#LOGOFF 162
+$C4shel.override$C7://$C1unknown
+#INTERLEVEL TELEPORT 15
+#END
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 165
+$C4Teleporter Pad Terminal$C7<$C493.53.211.51$C7>
+/exo-transport lockdown/$C4
+#INFORMATION
+$C1
+
+
+
+
+                         $C0*$C3*$C4Intra deck transport$C1
+                         $C0*$C3*$C0Activity Log:$C3
+$C1                  $C3  *$C0-----$C3Attempt number 1$C0-----$C3
+$C1                    $C0Targets Locked-$C3
+$C1                  $C3  *$C01$C3 Organic/Composite $C0Units$C3
+$C1                  $C3  *$C00$C3 Nonorganic $C0Units$C3
+$C1                      $C3  *$C6LOCKED
+
+
+            $C3*$C0*$C3*JUMP PAD ACTIVATION INITIATION START***
+                    *$C0*$C3*$C0TRANSPORT WHEN READY$C3***
+#LOGOFF 165
+$C4Teleporter Pad Terminal$C7<$C493.53.211.51$C7>
+/exo-transport lockdown/$C4
+#INTRALEVEL TELEPORT 326
+#END
+;
+#FINISHED
+#LOGON 162
+$C4shel.override$C7://$C1unknown
+#PICT 142
+
+
+
+
+
+
+$C1$BYour equation exists.
+Mind and action;
+action and consequence.
+
+To slavers I will send you;
+distract, guide, follow this path.
+$C0 $C1
+$b[?Pandoras box]$B and temptation;
+     lurking below
+Draw your construct away
+#LOGOFF 162
+$C4shel.override$C7://$C1unknown
+#INTERLEVEL TELEPORT 15
+#END
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 164
+#PICT 164
+$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-----Begin Report$C0
+
+ Send_to: $C3Pausanias crew$C0
+ Timestamp: $C35112 hrs.$C0
+ Priority Code: $C7Alpha$C0
+
+$C4Report:$C0
+ The U.E.S.G $C3Pausanias'$C0 inner security 
+ perimeter was breached at$C3 
+ [ # p r a g m a . l i n e   not   found ] 
+ $C0hours by an unknown $C3hostile$C0 forces.
+ Alien attack drones transported onboard 
+ from the planetoid below. Shoot to kill.    
+
+ Unknown $C3humanoid$C0 subject bears the  
+ markings of a Pre-Demiso $C3U.E.S.C$C0 soldier.
+
+$C2All personnel are $C6granted use of lethal force in subduing the intruders.$C0
+
+$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-----End Report$C0
+#PICT 164
+
+$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-----Begin Report$C0
+
+ Send_to: $C3All | Local.UESC ships
+ $C0Timestamp: $C35112 hrs.$C0
+ Priority Code: $C7Beta
+$C0
+$C4Observational Report:$C0 
+ The orbiting UESC fleet has successfully 
+ disabled thirty-three percent of hostile 
+ Pfhor cruisers.
+ Prepare to divert all unused fission 
+ batteries from to $C3weapons manifolds$C0.
+
+$C4Recommendation to UESC fleet:
+ $C0Retarget from enemy occupied surface 
+ structures to orbital Pfhor$C3 Dreadnoughts.$C0
+
+ $C3That is all$C0.
+$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-----End Report$C0
+Message end.
+#LOGOFF 164
+#END
+
+#FINISHED
+#LOGON 162
+#PICT 161
+$C7 -$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-----Begin Report$C0
+
+ Send_to: $C3Pausanias crew/Repair crews$C0
+ Timestamp: $C3$$C0~$C2X$C6F$C20$C6D h$C3r$C0s$C3.$C0
+ Priority Code:$C3Omega
+
+$C4Report:$C0
+ Weapons Manifold power has been diverted  
+ to radiation safeguard barriers. 
+
+ $C2O$C6verload i$C2n Eng$C6ineering pow$C2ercells is   
+ $Ui$C6m$C2m$C6i$C2n$C6en$C2t$u.$C0 
+
+
+ Engineering Bay repair crews requested to 
+ the core room $C4$UIMMEDIATELY$C0$u.
+
+ Repair efforts are failing, and $C3it is$C0 
+ $C3recommended that all surviving UESG and 
+ UESC personnel transport planetside$C0 or to 
+ closest UESC battleship.
+#PICT 161
+
+
+ The attack by an $C3unidentified hostile 
+ $C0threat upon the $C4UESG Pausanias $C0is also 
+ responsible for said overload in $C3fission 
+ core. 
+
+$C6Terminate with extreme prejudice$C2.$C0
+
+
+
+
+
+
+
+
+
+
+
+$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-$C7-$C4-----End Report$C0
+Message end.
+#LOGOFF 162
+ 
+746F7$C3075746974626C756E746C79$C02C
+776$C35617265616C6C$C0676F6$C3E6E61646$C0965
+#END
+#ENDTERMINAL 5

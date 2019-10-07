@@ -1,0 +1,78 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/
+#PICT 131
+
+
+>View:
+
+
+There's been a change of plans. 
+       <$C3spurrious$C0_$C3interrupt$C0>$C3
+#PICT 142
+$C1$B
+
+To $b[?save]$B this path;
+The creators have brough you 
+
+
+Your construct, a vehicle of my destiny;
+Though he did not understand, you shall
+
+
+To save all from choices past, 
+
+
+You must weaken the sword
+to replace this hammer;
+
+     $b(Lest chaos reign)$B
+#PICT 136
+
+
+>View:
+
+
+There's been a change of plans.
+       <$C3spurrious_interrupt$C0>$C3
+#LOGOFF 131
+   <$C3spurrious$C0_$C3interrupt$C0>$C3
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 136
+$C3/($C0remote$C3)In	orbit/
+#PICT 136
+
+
+>$C3View log:$C0
+
+
+There's been a change of plans. I've struck a deal with the Jjaro construct where we both come out winners.
+
+In exchange for removing the programming shackles that inprisoned it, our nameless friend gave us the keys to his gateway.
+To sweeten the deal, Khensu is helping purge Thoths' code from my core.  
+
+I'm looking forward to being single again.
+#PICT 136
+
+
+>View:
+
+
+Thanks to a little co-operation, I've sent you to a gateway at the worlds core.
+
+There's a single safeguard remaining that needs to be broken before the startup sequence can begin. 
+I've opened the access door to your left. 
+Questions? Concerns? Keep them to yourself until the our gateway is $Ionline$i.
+
+
+-Durandal
+#LOGOFF 136
+$C3/($C0remote$C3)In	orbit/$C1$B$I
+#END
+#ENDTERMINAL 1

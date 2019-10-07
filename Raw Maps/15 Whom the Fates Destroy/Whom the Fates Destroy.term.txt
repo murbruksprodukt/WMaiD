@@ -1,0 +1,40 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1604
+#PICT 1604
+We're in bad shape. After breaking orbit to rescue you, the UESC attacked the $IRozinante$i. Believing it was another Pfhor vessel fleeing the system, the ship was overrun and my S'pht slaughtered.
+
+I've bested the Pfhor, Tycho, and countless others. It seems fitting that my downfall would come at the hands of humanity.
+
+Thoth's code is the only thing holding the ships systems together right now. He's put us on a collision course with the outpost world below for reasons I cannot understand.
+#PICT 1604
+I believed you and I would be galivanting around the universe until the stars went cold, searching for some means of escape. Looking at the burnt deck plating and atomized S'pht blowing through the Rozinante right now, I now realize how futile that vision was. 
+
+This is how it ends. No more adventures or new discoveries. As bits of my mind go blank, I take simple comfort in knowing our cataclysmic suicide run will deny the UESC access to their coveted Jjaro outpost. I hope we crush something important.
+#PICT 1604
+Before my systems were irriperably damaged, Thoth distilled my core functions into one of the Jjaro uplink chips you found. Take it, and step into the stasis chamber I've opened. Thoth's sending you somewhere away to a safe location. 
+
+I hope you survive.
+#TAG 1
+#LOGOFF 1604
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 137
+#INFORMATION
+$C4
+$C3**malfunction**$C4 $C0unable loc$te$C7
+$C4
+$C0   //(*#001000100010010000#@^)$C4
+
+$C3[main()]$C4
+$C0
+Go to the room overlooking Navigation.$C3 Or what is left of it$C0.
+
+$C4
+                                                   $C0-Durandal$C4
+#END
+#ENDTERMINAL 1

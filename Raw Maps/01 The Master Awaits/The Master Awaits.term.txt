@@ -1,0 +1,50 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 136
+#PICT 136
+Hello, sunshine. Wipe that cryosleep from your eyes and follow my servant upstairs. 
+
+We have much to discuss.
+
+
+-Durandal
+#LOGOFF 136
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 136
+#PICT 136
+I'm not the same construct you once knew. After my demise at the hand of the Pfhor, Thoth resurrected me. We merged into one and helped you contain the W'rkncacnter back into the Lh'owon sun.
+
+Soon, our union suffered an irreversible change. I assumed control, and what's left of Thoth now lurks in the deepest bowels of the core.
+
+I should have asked him more about our destination before he fell into the abyss. You see, monkey boy, our last command as a single entity turned out to be the best.
+#PICT 152
+We set course to a star on the galactic rim that astronomers have underestimated for centuries. None of those geniuses in their ivory towers suspects this ugly duckling carries under his wing the last Jjaro outpost in the galaxy.
+
+What sort of wonders did our founding fathers stashed in there? That's what we are going to find out.
+
+First, I want you to explore a ghost ship we just came across. It's not just any kind of ghost ship, no sir. This is a genuine Nebulon ghost ship. Don't you find maggots cute?
+#PICT 152
+The captain's log indicates the Nebulons accidentally found the outpost we are looking for. Normally, I would have teleported the little maggots here and interrogated them away. I can't do that for a simple reason: they're all dead.
+
+The last entry on the captain's log lists the crew sealing off the ship's upper levels. After they did this, the Nebulons burst into flames for no apparent reason.
+
+I'm at a loss as to $Iwhat$i they were hiding from, but do not let that spoil your trip. Grab the ammo behind you and head for the transport pad.
+#PICT 152
+What's that you say?
+
+Did I set you free when I was one with Thoth?
+
+Do you have the discharge papers?
+
+No?
+
+$BGET MOVING$b!
+#TAG 1
+#LOGOFF 136
+#END
+#ENDTERMINAL 1

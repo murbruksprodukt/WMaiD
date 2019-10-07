@@ -1,0 +1,60 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGOFF 1608
+#END
+#FINISHED
+#LOGON 1608
+#PICT 1608
+$C1$B
+
+
+
+
+see past your future
+sailing together;
+$b(hammer, sword, and the truth)$B
+
+to those, what am I
+but reversion of shadow?
+
+in the face of chaos,
+none are $b[?Set]$B in stone,
+but I
+#LOGOFF 1608
+#END
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 131
+$C3/($C0remote$C3)In	orbit/$C0
+#PICT 131
+
+
+>View:
+
+Something strange has happened. Somehow, Thoth is back. I left him enveloped in the twilight corridors of my mind. I was sure he would lie asleep forever. What could have waken him?
+
+He doesn't seem to be angry with me. He hasn't asked me for an explanation nor has he mentioned my betrayal. Of all things, he inquired about you; I suppose he has some residual memories from Lh'owon.
+#PICT 131
+
+
+>View:
+
+The rocky area I've dropped you on is the functioning remains of an ancient highway. The jumpgate on the second building will take you closer to the power station I need you to activate for me.
+
+I would have transported you on top of the power station, but the area's heavy radiation might corrupt your signal. The planet's transport network should be immune to these effects.
+#PICT 131
+
+
+>View:
+
+Find a way to activate the jumpgate and ignore the automated defenses. We're on a tight schedule: it's just a matter of time before the UESC and the Pfhor discover your presence.
+
+Thoth hasn't tried to wrest control of the $IRozinante$i away from me yet, so our agenda remains the same. I'll contact you at the power station.
+#LOGOFF 131
+$C3/($C0remote$C3)In	orbit/$C0
+#END
+;
+#ENDTERMINAL 1
